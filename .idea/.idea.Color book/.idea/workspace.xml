@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="524c05f5-f610-421c-8a9b-19505b16b935" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Editor/ShapesManagerEditor1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/Group1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ShapesManager1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ShapesTable1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/TableShape1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScrollSlider1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../2019.3.7f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Layout/GridLayoutGroup.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/OnButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ShapesManager1.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Editor/ShapesManagerEditor1.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ScrollSlider.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/TableShape1.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/UIEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/Group1.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScrollSlider1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ShapesTable.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ShapesTable1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kC5MTvlc2uWGBaY07BA2CtefJY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="524c05f5-f610-421c-8a9b-19505b16b935" name="Default Changelist" comment="" />
+      <created>1605191735481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605191735481</updated>
+      <workItem from="1605191735901" duration="15475000" />
+      <workItem from="1605275736271" duration="15356000" />
+      <workItem from="1605343510566" duration="7326000" />
+      <workItem from="1605453267339" duration="753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605365015575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605365015575" />
+    <state x="836" y="418" key="Github.ShareDialog" timestamp="1605453303281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605453303281" />
+  </component>
+</project>
