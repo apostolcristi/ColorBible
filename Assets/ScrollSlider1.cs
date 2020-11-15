@@ -171,6 +171,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 
 		void Start ()
 		{
+			Debug.Log("ok");
 			Init();
 		}
 

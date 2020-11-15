@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Catalin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Catalin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_color-bible.-1547239098.00" t="ExcludeRecursive" />
+    <e p="E:\Color bible\color-bible" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DrawingAndColoring Extra" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AdsManagerEditor.cs" t="Include" />
+            <e p="AudioSourcesEditor.cs" t="Include" />
+            <e p="PostProcessor.cs" t="Include" />
+            <e p="ShapesManagerEditor.cs" t="Include" />
+            <e p="ShapesManagerEditor1.cs" t="Include" />
+            <e p="ToolContentBuilderEditor.cs" t="Include" />
+            <e p="ToolEditor.cs" t="Include" />
+            <e p="WelcomePopup.cs" t="Include" />
+          </e>
+          <e p="ReadMe.txt" t="Include" />
+          <e p="Scenes" t="Include">
+            <e p="Landscape" t="Include">
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+            <e p="Portrait" t="Include">
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Game" t="Include">
+              <e p="Area.cs" t="Include" />
+              <e p="AudioSources.cs" t="Include" />
+              <e p="BezierPath.cs" t="Include" />
+              <e p="CameraDrag.cs" t="Include" />
+              <e p="CameraZoom.cs" t="Include" />
+              <e p="ConfirmDialog.cs" t="Include" />
+              <e p="CursorZoomCamera.cs" t="Include" />
+              <e p="DrawCanvas.cs" t="Include" />
+              <e p="DrawingContents.cs" t="Include" />
+              <e p="EscapeEvent.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
+              <e p="Group.cs" t="Include" />
+              <e p="Group1.cs" t="Include" />
+              <e p="History.cs" t="Include" />
+              <e p="Line.cs" t="Include" />
+              <e p="Logo.cs" t="Include" />
+              <e p="OSCursorManager.cs" t="Include" />
+              <e p="PaintLine.cs" t="Include" />
+              <e p="Pointer.cs" t="Include" />
+              <e p="SceneStartup.cs" t="Include" />
+              <e p="ScrollSlider.cs" t="Include" />
+              <e p="Shape.cs" t="Include" />
+              <e p="ShapePart.cs" t="Include" />
+              <e p="ShapesCanvas.cs" t="Include" />
+              <e p="ShapesManager.cs" t="Include" />
+              <e p="ShapesManager1.cs" t="Include" />
+              <e p="ShapesTable.cs" t="Include" />
+              <e p="ShapesTable1.cs" t="Include" />
+              <e p="SingletonManager.cs" t="Include" />
+              <e p="TableShape.cs" t="Include" />
+              <e p="TableShape1.cs" t="Include" />
+              <e p="ThicknessSize.cs" t="Include" />
+              <e p="Tool.cs" t="Include" />
+              <e p="ToolContent.cs" t="Include" />
+              <e p="UIEvents.cs" t="Include" />
+              <e p="WebPrint.cs" t="Include" />
+              <e p="WhiteArea.cs" t="Include" />
+              <e p="WorldSpaceRender.cs" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="AdMob.cs" t="Include" />
+              <e p="AdPackage.cs" t="Include" />
+              <e p="AdsManager.cs" t="Include" />
+              <e p="ChartboostAd.cs" t="Include" />
+              <e p="Colors.cs" t="Include" />
+              <e p="CommonUtil.cs" t="Include" />
+              <e p="DirtyUtil.cs" t="Include" />
+              <e p="Links.cs" t="Include" />
+              <e p="UnityAd.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Version Changes.txt" t="Include" />
+        </e>
+        <e p="OnButton.cs" t="Include" />
+        <e p="Scenes.cs" t="Include" />
+        <e p="ScrollSlider1.cs" t="Include" />
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="color-bible.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
