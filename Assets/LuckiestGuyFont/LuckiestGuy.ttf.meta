@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f43fe1e5190ffcd46879662ea20cf475
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Luckiest Guy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f7bb9e938bd6c0b45b3f0e4ac78d0b5b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

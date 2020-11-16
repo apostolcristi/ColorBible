@@ -29,7 +29,7 @@ sysinfo.txt
 .consulo/
 /*.tmp
 /*.svd
- 
+ .idea
 # ============ #
 # OS generated #
 # ============ #
@@ -37,7 +37,6 @@ sysinfo.txt
 ._*
 .Spotlight-V100
 .Trashes
-Icon?
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
