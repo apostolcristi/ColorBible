@@ -84,7 +84,7 @@
           </e>
           <e p="Version Changes.txt" t="Include" />
         </e>
-        <e p="font" t="Include">
+        <e p="LuckiestGuyFont" t="Include">
           <e p="license.txt" t="Include" />
         </e>
         <e p="Plugins" t="Include">
@@ -114,6 +114,8 @@
         <e p="Script" t="Include">
           <e p="BannerAd.cs" t="Include" />
           <e p="IAPManager.cs" t="Include" />
+          <e p="ImageHolder.cs" t="Include" />
+          <e p="ImageOrder.cs" t="Include" />
           <e p="OnButton.cs" t="Include" />
           <e p="PurchaseButton.cs" t="Include" />
           <e p="RestorePurchases.cs" t="Include" />

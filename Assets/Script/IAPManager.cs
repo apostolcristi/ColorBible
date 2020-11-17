@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using UnityEngine.Purchasing;
+using UnityEngine.SceneManagement;
 
 
 public class IAPManager : MonoBehaviour, IStoreListener
@@ -47,7 +48,8 @@ public class IAPManager : MonoBehaviour, IStoreListener
     {
         if (String.Equals(args.purchasedProduct.definition.id, removeLock, StringComparison.Ordinal))
         {
-            Debug.Log("Removed Lock Succesful");
+            SceneManager.LoadScene("ImageSet1");
+            ImageOrder.imageSet = 2;
         }
         else
         {

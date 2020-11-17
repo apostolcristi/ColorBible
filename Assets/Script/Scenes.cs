@@ -28,6 +28,7 @@ public class Scenes : MonoBehaviour
     public void ImageSet1()
     {
         SceneManager.LoadScene("ImageSet1");
+        ImageOrder.imageSet = 1;
     }
 
     public void PurchaseSet()

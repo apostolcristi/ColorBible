@@ -56,6 +56,7 @@
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\DrawingContents.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\EscapeEvent.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ShapesManager.cs" />
+     <Compile Include="Assets\Script\PurchaseButton.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\WhiteArea.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\CameraDrag.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\GameManager.cs" />
@@ -65,6 +66,7 @@
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ToolContent.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\WebPrint.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\WorldSpaceRender.cs" />
+     <Compile Include="Assets\Script\RestorePurchases.cs" />
      <Compile Include="Assets\Script\BannerAd.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\UnityAd.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\CameraZoom.cs" />
@@ -102,8 +104,8 @@
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ShapePart.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\DirtyUtil.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\UIEvents.cs" />
-     <Compile Include="Assets\Script\PurchaseButton.cs" />
-     <Compile Include="Assets\Script\RestorePurchases.cs" />
+     <Compile Include="Assets\Script\ImageOrder.cs" />
+     <Compile Include="Assets\Script\ImageHolder.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\DrawingAndColoring Extra\Scenes\Landscape\ReadMe.txt" />
@@ -352,32 +354,32 @@
  <Reference Include="UnityEditor">
  <HintPath>E:/unity/2020.1.6f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
  </Reference>
- <Reference Include="Security">
- <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
- </Reference>
- <Reference Include="Stores">
- <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
- </Reference>
- <Reference Include="AppleCore">
- <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Apple/AppleCore.dll</HintPath>
- </Reference>
  <Reference Include="Editor">
  <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
  </Reference>
  <Reference Include="Purchasing.Common">
  <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
  </Reference>
- <Reference Include="winrt">
- <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
- </Reference>
- <Reference Include="FacebookStore">
- <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
+ <Reference Include="Stores">
+ <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
  </Reference>
  <Reference Include="Apple">
  <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
  </Reference>
+ <Reference Include="AppleCore">
+ <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Apple/AppleCore.dll</HintPath>
+ </Reference>
  <Reference Include="AppleMacos">
  <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Apple/AppleMacos.dll</HintPath>
+ </Reference>
+ <Reference Include="FacebookStore">
+ <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
+ </Reference>
+ <Reference Include="Security">
+ <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
+ </Reference>
+ <Reference Include="winrt">
+ <HintPath>E:/Color bible/color-bible/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>E:/unity/2020.1.6f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
