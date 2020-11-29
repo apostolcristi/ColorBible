@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Purchasing;
 using UnityEngine.SceneManagement;
@@ -7,12 +8,21 @@ using UnityEngine.SceneManagement;
 public class IAPManager : MonoBehaviour, IStoreListener
 {
     public static IAPManager instance;
+    public Toast toast;
+
+    public static bool isRemoved = false;
+    public static bool isRemoved1 = false;
+    public static bool isRemoved2 = false;
 
     private static IStoreController m_StoreController;
     private static IExtensionProvider m_StoreExtensionProvider;
 
     //Step 1 create your products
-    private string removeLock = "remove_Lock";
+    
+    private string removeLock = "remove_lock";
+    private string removeLock1 = "remove_lock_1";
+    private string removeLock2 = "remove_lock_2";
+   
 
 
     //************************** Adjust these methods **************************************
@@ -23,6 +33,8 @@ public class IAPManager : MonoBehaviour, IStoreListener
 
         //Step 2 choose if your product is a consumable or non consumable
         builder.AddProduct(removeLock, ProductType.NonConsumable);
+        builder.AddProduct(removeLock1, ProductType.NonConsumable);
+        builder.AddProduct(removeLock2, ProductType.NonConsumable);
         
 
         UnityPurchasing.Initialize(this, builder);
@@ -39,6 +51,16 @@ public class IAPManager : MonoBehaviour, IStoreListener
     public void BuySet2()
     {
         BuyProductID(removeLock);
+       
+    }
+
+    public void BuySet3()
+    {
+        BuyProductID(removeLock1);
+    }
+    public void BuySet4()
+    {
+        BuyProductID(removeLock2);
     }
 
 
@@ -48,8 +70,17 @@ public class IAPManager : MonoBehaviour, IStoreListener
     {
         if (String.Equals(args.purchasedProduct.definition.id, removeLock, StringComparison.Ordinal))
         {
-            SceneManager.LoadScene("ImageSet1");
-            ImageOrder.imageSet = 2;
+            isRemoved = true;    
+            Debug.Log("Cumparat set2");
+        }else if (String.Equals(args.purchasedProduct.definition.id, removeLock1, StringComparison.Ordinal))
+        {
+           isRemoved1 = true;
+           Debug.Log("Cumparat set3");
+        }
+        else if (String.Equals(args.purchasedProduct.definition.id, removeLock2, StringComparison.Ordinal))
+        {
+            isRemoved2 = true;
+            Debug.Log("Cumparat set4");
         }
         else
         {

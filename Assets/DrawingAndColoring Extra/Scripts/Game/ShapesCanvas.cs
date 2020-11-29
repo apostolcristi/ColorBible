@@ -98,3 +98,4 @@ namespace IndieStudio.DrawingAndColoring.Logic
 		}
 	}
 }
+

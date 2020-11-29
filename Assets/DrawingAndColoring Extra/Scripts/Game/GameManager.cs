@@ -14,6 +14,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 	[DisallowMultipleComponent]
 	public class GameManager : MonoBehaviour
 	{
+		public ImageHolder imageHolder;
 		/// <summary>
 		/// The lines counter.
 		/// </summary>
@@ -136,6 +137,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 		// Use this for initialization
 		void Start ()
 		{
+			
 			///Setting up the references
 			tools = GameObject.FindObjectsOfType<Tool>() as Tool [];
 			cursorDefaultSize = cursor.transform.localScale;
@@ -166,7 +168,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 			LoadCurrentShape ();
 
 			//Show the shape's order
-			ShapesCanvas.shapeOrder.gameObject.SetActive (true);
+//			ShapesCanvas.shapeOrder.gameObject.SetActive (true);
 
 			CursorZoomOutput.enabled = false;
 		}
@@ -300,7 +302,8 @@ namespace IndieStudio.DrawingAndColoring.Logic
 			GameObject line = Instantiate (linePrefab, Vector3.zero, Quaternion.identity) as GameObject;
 			
 			//Set the parent of line
-			line.transform.SetParent(Area.shapesDrawingContents[ShapesManager.instance.lastSelectedShape].transform);
+			//line.transform.SetParent(Area.shapesDrawingContents[ShapesManager.instance.lastSelectedShape].transform);
+			line.transform.SetParent(InstantiateImages.instance.drawArray[ImageOrder.imageSet,InstantiateImages.imageNumber].transform);
 			
 			//Set the name of the line
 			line.name = "Line";
@@ -638,38 +641,78 @@ namespace IndieStudio.DrawingAndColoring.Logic
 		/// <summary>
 		/// Instantiate the drawing contents for each Shape.
 		/// </summary>
-		private void InstantiateDrawingContents(){
+		private void InstantiateDrawingContents()
+		{
 
-			if (Area.shapesDrawingContents.Count == 0 && ShapesManager.instance.shapes.Count!= 0) {
-				foreach (ShapesManager.Shape s in ShapesManager.instance.shapes) {
-					if(s == null){
-						continue;
-					}
-					GameObject drawingContents = new GameObject (s.gamePrefab.name + " Contents");
-					drawingContents.layer = LayerMask.NameToLayer("MiddleCamera");
-					DrawingContents drawingContentsComponent = drawingContents.AddComponent (typeof(DrawingContents))as DrawingContents;
-					drawingContents.AddComponent (typeof(History));
-					drawingContents.transform.SetParent (drawingArea);
-					drawingContents.transform.position = Vector3.zero;
-					drawingContents.AddComponent<RectTransform>().anchoredPosition3D = Vector3.zero;
-					drawingContents.transform.localScale = Vector3.one;
-					drawingContents.SetActive (false);
-
-					Transform shapeParts = s.gamePrefab.transform.Find ("Parts");
-					if (shapeParts != null) {
-						foreach(Transform part in shapeParts){
-							if(part.GetComponent<ShapePart>()!=null && part.GetComponent<SpriteRenderer>()!=null){
-								drawingContentsComponent.shapePartsColors.Add(part.name,part.GetComponent<SpriteRenderer>().color);
-								drawingContentsComponent.shapePartsSortingOrder.Add(part.name,part.GetComponent<SpriteRenderer>().sortingOrder);
+			/*	if (Area.shapesDrawingContents.Count == 0 && ShapesManager.instance.shapes.Count!= 0) {
+					foreach (ShapesManager.Shape s in ShapesManager.instance.shapes) {
+						if(s == null){
+							continue;
+						}
+						
+						GameObject drawingContents = new GameObject (s.gamePrefab.name + " Contents");
+						drawingContents.layer = LayerMask.NameToLayer("MiddleCamera");
+						DrawingContents drawingContentsComponent = drawingContents.AddComponent (typeof(DrawingContents))as DrawingContents;
+						drawingContents.AddComponent (typeof(History));
+						drawingContents.transform.SetParent (drawingArea);
+						drawingContents.transform.position = Vector3.zero;
+						drawingContents.AddComponent<RectTransform>().anchoredPosition3D = Vector3.zero;
+						drawingContents.transform.localScale = Vector3.one;
+						drawingContents.SetActive (false);
+	
+						Transform shapeParts = s.gamePrefab.transform.Find ("Parts");
+						if (shapeParts != null) {
+							foreach(Transform part in shapeParts){
+								if(part.GetComponent<ShapePart>()!=null && part.GetComponent<SpriteRenderer>()!=null){
+									drawingContentsComponent.shapePartsColors.Add(part.name,part.GetComponent<SpriteRenderer>().color);
+									drawingContentsComponent.shapePartsSortingOrder.Add(part.name,part.GetComponent<SpriteRenderer>().sortingOrder);
+								}
 							}
 						}
+	
+						Area.shapesDrawingContents.Add (drawingContentsComponent);
 					}
+				}
+				*/
+		/*	for (int i = 0; i < imageHolder.title.Length; i++)
+			{
+				GameObject parentContent = new GameObject("Content " + i);
+				parentContent.transform.SetParent(drawingArea);
+				parentContent.transform.localScale = Vector3.one;
+				for (int j = 0; j < imageHolder.arrays[i].objects.Length; j++)
+				{
+					GameObject drawingContent = new GameObject(imageHolder.arrays[i].objects[j].name + " Parts");
+					drawingContent.layer = LayerMask.NameToLayer("MiddleCamera");
+					DrawingContents drawingContentsComponent =
+						drawingContent.AddComponent(typeof(DrawingContents)) as DrawingContents;
+					drawingContent.AddComponent(typeof(History));
+					drawingContent.transform.SetParent(parentContent.transform);
+					drawingContent.transform.position = Vector3.zero;
+					drawingContent.AddComponent<RectTransform>().anchoredPosition3D = Vector3.zero;
+					drawingContent.transform.localScale = Vector3.one;
+					drawingContent.SetActive(false);
 
+					Transform shapeParts = imageHolder.arrays[i].objects[j].transform.Find("Parts");
+					if (shapeParts != null)
+					{
+						if (shapeParts.GetComponent<ShapePart>() != null &&
+						    shapeParts.GetComponent<SpriteRenderer>() != null)
+						{
+							drawingContentsComponent.shapePartsColors.Add(shapeParts.name,
+								shapeParts.GetComponent<SpriteRenderer>().color);
+							drawingContentsComponent.shapePartsSortingOrder.Add(shapeParts.name,
+								shapeParts.GetComponent<SpriteRenderer>().sortingOrder);
+						}
+
+						
+					}
 					Area.shapesDrawingContents.Add (drawingContentsComponent);
 				}
+			
 			}
+			*/
 		}
-		
+
 		/// <summary>
 		/// Instantiate all tools contents in ToolsSlider
 		/// </summary>

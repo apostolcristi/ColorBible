@@ -12,7 +12,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 	public class DrawCanvas : MonoBehaviour {
 
 		public static DrawCanvas instance;
-		
+
 		// Use this for initialization
 		void Awake () {
 			if (instance == null) {

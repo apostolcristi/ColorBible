@@ -9,6 +9,7 @@ public class Scenes : MonoBehaviour
 {
     public CanvasGroup UICanvas;
     public GameObject PurchaseCanvas;
+    public ImageOrder imageOrder;
 
     private void Start()
     {
@@ -25,11 +26,7 @@ public class Scenes : MonoBehaviour
         SceneManager.LoadScene("AlbumTestr");
     }
 
-    public void ImageSet1()
-    {
-        SceneManager.LoadScene("ImageSet1");
-        ImageOrder.imageSet = 1;
-    }
+  
 
     public void PurchaseSet()
     {

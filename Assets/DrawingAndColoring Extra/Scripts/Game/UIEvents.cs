@@ -54,24 +54,27 @@ namespace IndieStudio.DrawingAndColoring.Logic
 				history.Redo ();
 			}
 		}
+		
 
 		public void AlbumShapeEvent (TableShape tableShape)
 		{
-			if (tableShape == null) {
+		/*	if (tableShape == null) {
 				return;
 			}
 
 			TableShape.selectedShape = tableShape;
 			LoadGameScene ();
+			*/
 		}
 		public void AlbumShapeEvent1 (TableShape1 tableShape)
 		{
-			if (tableShape == null) {
+			/*	if (tableShape == null) {
 				return;
 			}
 
-			TableShape1.selectedShape = tableShape;
+			TableShape.selectedShape = tableShape;
 			LoadGameScene ();
+			*/
 		}
 
 		public void ThicknessSizeEvent (ThicknessSize thicknessSize)
