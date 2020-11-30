@@ -22,8 +22,8 @@ public class ImageOrder : MonoBehaviour
     {
         title.text = "Image set " + (imageSet + 1);
       
-            InitializeSet();
-        
+           // InitializeSet();
+        Initialize();
 
     }
 
@@ -33,7 +33,7 @@ public class ImageOrder : MonoBehaviour
         
     }
 
-    private void InitializeSet()
+  /*  private void InitializeSet()
     {
         float Lines =Mathf.Ceil(imageHolder.arrays[imageSet].objects.Length / 4.0f);
         float LinesUnfinished = imageHolder.arrays[imageSet].objects.Length % 4.0f;
@@ -47,7 +47,7 @@ public class ImageOrder : MonoBehaviour
                     drawManagerGameObject.transform.parent = gameObject.transform;
                     for (int j = 0; j < 4; j++)
                     {
-                        GameObject drawChildGameObject = Instantiate(drawChild, new Vector3(252 * j, 0, 0), Quaternion.identity);
+                        GameObject drawChildGameObject = Instantiate(drawChild, drawManagerGameObject.transform.position, Quaternion.identity);
                         drawChildGameObject.transform.parent = drawManagerGameObject.transform;
 
                         GameObject newImage = Instantiate(imageHolder.arrays[imageSet].objects[j + i * 4], drawChildGameObject.transform.GetChild(0).position, Quaternion.identity);
@@ -66,7 +66,7 @@ public class ImageOrder : MonoBehaviour
                     {
                         for (int j = 0; j < LinesUnfinished; j++)
                         {
-                            GameObject drawChildGameObject = Instantiate(drawChild, new Vector3(252 * j, 0, 0), Quaternion.identity);
+                            GameObject drawChildGameObject = Instantiate(drawChild, drawManagerGameObject.transform.position, Quaternion.identity);
                             drawChildGameObject.transform.parent = drawManagerGameObject.transform;
                             
                             GameObject newImage = Instantiate(imageHolder.arrays[imageSet].objects[j + i * 4], drawChildGameObject.transform.GetChild(0).position, Quaternion.identity);
@@ -92,9 +92,23 @@ public class ImageOrder : MonoBehaviour
                     }
                 }
             }
-    }    
+    }    */
 
-    
+  private void Initialize()
+  {
+      for (int i = 0; i < imageHolder.arrays[imageSet].objects.Length; i++)
+      {
+          GameObject drawChildParent = Instantiate(drawChild,transform.position,Quaternion.identity);
+          drawChildParent.transform.SetParent(gameObject.transform);
+          GameObject newImage = Instantiate(imageHolder.arrays[imageSet].objects[i], drawChildParent.transform.GetChild(0).position, Quaternion.identity);
+          newImage.transform.SetParent(drawChildParent.transform);
+          newImage.transform.localScale=new Vector3(2.5f, 2.5f, 1);
+          newImage.GetComponent<Button> ().onClick.AddListener (() =>newImage.GetComponent<ImageID>().ImageActive() );
+          newImage.name += "-" + i;
+      }
+  }
+
+
 }
     
 

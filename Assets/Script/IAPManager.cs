@@ -70,17 +70,21 @@ public class IAPManager : MonoBehaviour, IStoreListener
     {
         if (String.Equals(args.purchasedProduct.definition.id, removeLock, StringComparison.Ordinal))
         {
-            isRemoved = true;    
+            isRemoved = true;
             Debug.Log("Cumparat set2");
+            
+    
         }else if (String.Equals(args.purchasedProduct.definition.id, removeLock1, StringComparison.Ordinal))
         {
            isRemoved1 = true;
            Debug.Log("Cumparat set3");
+           
         }
         else if (String.Equals(args.purchasedProduct.definition.id, removeLock2, StringComparison.Ordinal))
         {
             isRemoved2 = true;
             Debug.Log("Cumparat set4");
+
         }
         else
         {

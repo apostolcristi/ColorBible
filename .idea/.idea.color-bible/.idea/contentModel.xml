@@ -113,6 +113,7 @@
         </e>
         <e p="Script" t="Include">
           <e p="BannerAd.cs" t="Include" />
+          <e p="DynamicButton.cs" t="Include" />
           <e p="IAPManager.cs" t="Include" />
           <e p="ImageHolder.cs" t="Include" />
           <e p="ImageID.cs" t="Include" />

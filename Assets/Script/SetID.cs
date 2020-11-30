@@ -6,19 +6,21 @@ using UnityEngine.UI;
 
 public class SetID : MonoBehaviour
 {
+    public static SetID setID;
     public int ID = -1;
     public GameObject Locked;
     public PurchaseButton RemoveLock;
     public PurchaseButton RemoveLock1;
     public PurchaseButton RemoveLock2;
 
-    private bool firstTime=false;
-    private bool firstTime1=false;
-    private bool firstTime2=false;
+    public static bool firstTime=false;
+    public static bool firstTime1=false;
+    public static bool firstTime2=false;
 
     
     void Start()
     {
+
      
         if (ID == -1)
         {
