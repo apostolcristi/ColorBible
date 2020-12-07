@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -6,22 +7,28 @@ using UnityEngine.UI;
 
 public class SetID : MonoBehaviour
 {
+
     public static SetID setID;
     public int ID = -1;
     public GameObject Locked;
     public PurchaseButton RemoveLock;
     public PurchaseButton RemoveLock1;
     public PurchaseButton RemoveLock2;
-
-    public static bool firstTime=false;
-    public static bool firstTime1=false;
-    public static bool firstTime2=false;
+    
+    private GameObject NextButton,PreviousButton;
+    private GameObject NoButton;
+    private GameObject YesButton;
+    private GameObject MainScreen;
+    
+    
 
     
     void Start()
     {
-
-     
+        NextButton = GameObject.FindGameObjectWithTag("ChangeButtons");
+        PreviousButton = GameObject.FindGameObjectWithTag("ChangeButtons");
+        
+        MainScreen = GameObject.FindGameObjectWithTag("MainScreen");
         if (ID == -1)
         {
             string[] token = gameObject.name.Split('-');
@@ -31,45 +38,101 @@ public class SetID : MonoBehaviour
 
         if (ID == 0)
         {
-           gameObject.GetComponent<Button>().onClick.AddListener(()=>Imageset());
-           Locked.SetActive(false);
+            gameObject.GetComponent<Button>().onClick.AddListener((() => Imageset()));
         }
-        else if(ID==1)
+
+        if (ID >= 1)
         {
-            gameObject.GetComponent<Button>().onClick.AddListener(()=>RemoveLock.ClickPurchaseButton());
+       
+        NoButton =  gameObject.transform.GetChild(1).transform.GetChild(0).transform.GetChild(0).gameObject;
+        YesButton =  gameObject.transform.GetChild(1).transform.GetChild(0).transform.GetChild(1).gameObject;
+        
+        NoButton.GetComponent<Button>().onClick.AddListener((() => No()));
+        if (ID == 1 && IAPManager.isRemoved==true)
+        {
+            gameObject.GetComponent<Button>().onClick.AddListener((() => Imageset()));
         }
-        else if(ID==2)
+        else if(ID==1 && IAPManager.isRemoved==false)
         {
-            gameObject.GetComponent<Button>().onClick.AddListener(()=>RemoveLock1.ClickPurchaseButton());
+            gameObject.GetComponent<Button>().onClick.AddListener((() => AreYouSure()));
+            YesButton.GetComponent<Button>().onClick.AddListener((() => RemoveLock.ClickPurchaseButton()));
         }
-        else if(ID==3)
+        if (ID == 2 && IAPManager.isRemoved1==true)
         {
-            gameObject.GetComponent<Button>().onClick.AddListener(()=>RemoveLock2.ClickPurchaseButton());
+            gameObject.GetComponent<Button>().onClick.AddListener((() => Imageset()));
+        }
+        else if(ID==2 && IAPManager.isRemoved1==false)
+        {
+            gameObject.GetComponent<Button>().onClick.AddListener((() => AreYouSure()));
+            YesButton.GetComponent<Button>().onClick.AddListener((() => RemoveLock1.ClickPurchaseButton()));
+        }
+        if (ID == 3 && IAPManager.isRemoved1==true)
+        {
+            gameObject.GetComponent<Button>().onClick.AddListener((() => Imageset()));
+        }
+        else if(ID==3 && IAPManager.isRemoved2==false)
+        {
+            gameObject.GetComponent<Button>().onClick.AddListener((() => AreYouSure()));
+            YesButton.GetComponent<Button>().onClick.AddListener((() => RemoveLock2.ClickPurchaseButton()));
+        }
+    
         }
         
     }
 
-    void Update()
+    private void Update()
     {
-        if (ID == 1 && IAPManager.isRemoved == true && firstTime==false)
+        if (ID == 1 && IAPManager.isRemoved == true)
         {
-            gameObject.GetComponent<Button>().onClick.AddListener(()=>Imageset());
-            firstTime = true;
-            Locked.SetActive(false);
+            gameObject.transform.GetChild(1).gameObject.SetActive(false);
+            
         }
-        if (ID == 2 && IAPManager.isRemoved1 == true && firstTime1==false)
+        if (ID == 2 && IAPManager.isRemoved1 == true)
         {
-            gameObject.GetComponent<Button>().onClick.AddListener(()=>Imageset());
-            firstTime1 = true;
-            Locked.SetActive(false);
+            gameObject.transform.GetChild(1).gameObject.SetActive(false);
+            
         }
-        if (ID == 3 && IAPManager.isRemoved2 == true && firstTime2==false)
+
+        if (ID == 3 && IAPManager.isRemoved2 == true)
         {
-            gameObject.GetComponent<Button>().onClick.AddListener(()=>Imageset());
-            firstTime2 = true;
-            Locked.SetActive(false);
+            gameObject.transform.GetChild(1).gameObject.SetActive(false);
+        }
+
+        if (gameObject.transform.GetChild(1).gameObject.activeInHierarchy == true)
+        {
+            MainScreen.SetActive(false);
+            NextButton.GetComponent<Image>().raycastTarget = false;
+            PreviousButton.GetComponent<Image>().raycastTarget = false;
+        }
+        else
+        {
+            MainScreen.SetActive(true);
+            NextButton.GetComponent<Image>().raycastTarget = true;
+            PreviousButton.GetComponent<Image>().raycastTarget = true;
         }
     }
+
+    public void AreYouSure()
+    {
+        
+        NextButton = GameObject.FindGameObjectWithTag("ChangeButtons");
+        PreviousButton = GameObject.FindGameObjectWithTag("ChangeButtons");
+
+  
+      
+        gameObject.transform.GetChild(1).gameObject.SetActive(true);
+    }
+
+    public void No()
+    {
+        NextButton = GameObject.FindGameObjectWithTag("ChangeButtons");
+        PreviousButton = GameObject.FindGameObjectWithTag("ChangeButtons");
+
+     
+        
+        gameObject.transform.GetChild(1).gameObject.SetActive(false);
+    }
+    
     public void Imageset()
     {
         ImageOrder.imageSet = ID;

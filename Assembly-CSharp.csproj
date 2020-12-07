@@ -55,6 +55,7 @@
      <Compile Include="Assets\Script\Scenes.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\DrawingContents.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\EscapeEvent.cs" />
+     <Compile Include="Assets\Script\SaveManager.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ShapesManager.cs" />
      <Compile Include="Assets\Script\PurchaseButton.cs" />
      <Compile Include="Assets\Script\ImageHolder.cs" />
@@ -73,6 +74,7 @@
      <Compile Include="Assets\Script\BannerAd.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\UnityAd.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\CameraZoom.cs" />
+     <Compile Include="Assets\Script\SaveSystem.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\OSCursorManager.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Group.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\TableShape1.cs" />
@@ -97,6 +99,7 @@
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ShapesCanvas.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\SingletonManager.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ShapesManager1.cs" />
+     <Compile Include="Assets\Script\FlexibleGrid.cs" />
      <Compile Include="Assets\Script\OnButton.cs" />
      <Compile Include="Assets\Script\ImageOrder.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Pointer.cs" />
@@ -105,6 +108,7 @@
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Logo.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\Colors.cs" />
      <Compile Include="Assets\Script\IAPManager.cs" />
+     <Compile Include="Assets\Script\GameData.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ConfirmDialog.cs" />
      <Compile Include="Assets\Script\ScrollSlider1.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Shape.cs" />
@@ -114,6 +118,7 @@
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ShapePart.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\DirtyUtil.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\UIEvents.cs" />
+     <Compile Include="Assets\Script\StartMainGame.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\DrawingAndColoring Extra\Scenes\Landscape\ReadMe.txt" />

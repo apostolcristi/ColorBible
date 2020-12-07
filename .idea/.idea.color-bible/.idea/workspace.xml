@@ -23,22 +23,53 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Draw.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Draw.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DrawsManager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DrawsManager.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GridList.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GridList.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Prefabs/Characters/Bear.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Prefabs/Characters/Bear.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ShapePart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ShapePart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Textures/Characters/bible-2709042_1280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Textures/Characters/bible-2709042_1280.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Textures/CharactersParts/biblie_1.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Textures/CharactersParts/biblie_1.3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 0.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 10.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 10.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 11.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 11.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 12.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 12.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 5.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 6.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 6.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 7.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 7.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 9.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/1 9.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImageHolder.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImageHolder.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuckiestGuyFont/LuckiestGuy SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LuckiestGuyFont/LuckiestGuy SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AlbumTestr.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AlbumTestr.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/ImageSet1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ImageSet1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartingScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StartingScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/IAPManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/IAPManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ImageID.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/ImageID.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/ImageOrder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/ImageOrder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/NewGameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/NewGameManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/SetID.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SetID.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ShapesManagerCarousel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/ShapesManagerCarousel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shapes.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shapes.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testaab.aab" beforeDir="false" afterPath="$PROJECT_DIR$/testaab.aab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +81,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.1.1/Runtime/managed/Purchasing/IStoreController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ImageHolder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Toast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SaveSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StartMainGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/RestorePurchases.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ShapeCanvasLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Toast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/PurchaseButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ImageHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ShapeCanvasLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -73,19 +107,27 @@
         <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/DrawCanvas.cs" />
         <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ShapesCanvas.cs" />
         <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/UIEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/ShapesManagerCarousel.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ImageHolder.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/PurchaseButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Instance.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ShapeCanvasLoad.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Dinamic Button.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DynamicButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/ImageID.cs" />
-        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/GameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/ImageOrder.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/SetID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Margins.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ShapesManagerCarousel.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/IAPManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SetID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ImageOrder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/FlexibleGrid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/NewGameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/ShapePart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SaveSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SaveManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ImageID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StartMainGame.cs" />
       </list>
     </option>
   </component>
@@ -155,6 +197,14 @@
       <workItem from="1606651012768" duration="1745000" />
       <workItem from="1606663035349" duration="25517000" />
       <workItem from="1606750473431" duration="6250000" />
+      <workItem from="1606920811346" duration="12248000" />
+      <workItem from="1606979773687" duration="9185000" />
+      <workItem from="1607072555667" duration="1291000" />
+      <workItem from="1607101255045" duration="1980000" />
+      <workItem from="1607180795273" duration="9841000" />
+      <workItem from="1607275624536" duration="13656000" />
+      <workItem from="1607327315434" duration="6545000" />
+      <workItem from="1607343832026" duration="27073000" />
     </task>
     <servers />
   </component>
@@ -179,13 +229,17 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606411359751">
+    <state x="552" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607364328100">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606411359751" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605814910474">
+    <state x="552" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607364328100" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607352877313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605814910474" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607352877313" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607360136224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607360136224" />
   </component>
 </project>

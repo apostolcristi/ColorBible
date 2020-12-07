@@ -1,0 +1,2698 @@
+fileFormatVersion: 2
+guid: 055103d359f7168449bef6d5993c8c01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6266732732673997783
+    second: biblie_8_0
+  - first:
+      213: -6481167614945353310
+    second: biblie_8_1
+  - first:
+      213: 4939463437733626524
+    second: biblie_8_2
+  - first:
+      213: 6380130033835366850
+    second: biblie_8_3
+  - first:
+      213: -8587512424794933273
+    second: biblie_8_4
+  - first:
+      213: -3443650383512134910
+    second: biblie_8_5
+  - first:
+      213: 1204633685125165333
+    second: biblie_8_6
+  - first:
+      213: 6116820099336944600
+    second: biblie_8_7
+  - first:
+      213: 2031893019259172235
+    second: biblie_8_8
+  - first:
+      213: 6530712511271630766
+    second: biblie_8_9
+  - first:
+      213: 840743359810066938
+    second: biblie_8_10
+  - first:
+      213: 3847707955898745311
+    second: biblie_8_11
+  - first:
+      213: 3555842308275267846
+    second: biblie_8_12
+  - first:
+      213: 3182136216346407541
+    second: biblie_8_13
+  - first:
+      213: -1837996094450634442
+    second: biblie_8_14
+  - first:
+      213: 2393511287809876010
+    second: biblie_8_15
+  - first:
+      213: 6223413560498249268
+    second: biblie_8_16
+  - first:
+      213: 1207135024434582463
+    second: biblie_8_17
+  - first:
+      213: 8028108967669129897
+    second: biblie_8_18
+  - first:
+      213: -7319518204329367351
+    second: biblie_8_19
+  - first:
+      213: -2983560912279611259
+    second: biblie_8_20
+  - first:
+      213: -3570568595158668589
+    second: biblie_8_21
+  - first:
+      213: -6850248393532068939
+    second: biblie_8_22
+  - first:
+      213: 6840652158569228869
+    second: biblie_8_23
+  - first:
+      213: -3612129605925234567
+    second: biblie_8_24
+  - first:
+      213: 1252508675197867318
+    second: biblie_8_25
+  - first:
+      213: 4867939671210639662
+    second: biblie_8_26
+  - first:
+      213: 4795032889282856870
+    second: biblie_8_27
+  - first:
+      213: 3883568376022307400
+    second: biblie_8_28
+  - first:
+      213: 1488901448777055776
+    second: biblie_8_29
+  - first:
+      213: 5349538267854217077
+    second: biblie_8_30
+  - first:
+      213: -1361210385408818666
+    second: biblie_8_31
+  - first:
+      213: -5251046623086469842
+    second: biblie_8_32
+  - first:
+      213: 2890602650341530934
+    second: biblie_8_33
+  - first:
+      213: 4354681390979467025
+    second: biblie_8_34
+  - first:
+      213: 4848219755557787502
+    second: biblie_8_35
+  - first:
+      213: 5202952614964929767
+    second: biblie_8_36
+  - first:
+      213: 1765912434446885407
+    second: biblie_8_37
+  - first:
+      213: -6344606525786846758
+    second: biblie_8_38
+  - first:
+      213: -2253137700688494979
+    second: biblie_8_39
+  - first:
+      213: 4123349842167395335
+    second: biblie_8_40
+  - first:
+      213: -9099717931754745141
+    second: biblie_8_41
+  - first:
+      213: 8365505029836035207
+    second: biblie_8_42
+  - first:
+      213: -4986542473560800626
+    second: biblie_8_43
+  - first:
+      213: 8427894276257293750
+    second: biblie_8_44
+  - first:
+      213: 2244409423447636003
+    second: biblie_8_45
+  - first:
+      213: 5035306374881791964
+    second: biblie_8_46
+  - first:
+      213: 5565981865468167788
+    second: biblie_8_47
+  - first:
+      213: -7657552066847888532
+    second: biblie_8_48
+  - first:
+      213: 3765718171074344099
+    second: biblie_8_49
+  - first:
+      213: -5661694366296940783
+    second: biblie_8_50
+  - first:
+      213: -2828204615022437886
+    second: biblie_8_51
+  - first:
+      213: 8018840510425214511
+    second: biblie_8_52
+  - first:
+      213: 5937008750700972924
+    second: biblie_8_53
+  - first:
+      213: 539635736059521152
+    second: biblie_8_54
+  - first:
+      213: -7574813152434104260
+    second: biblie_8_55
+  - first:
+      213: 5207832587857440587
+    second: biblie_8_56
+  - first:
+      213: 8372624660442299349
+    second: biblie_8_57
+  - first:
+      213: -6525208951311707421
+    second: biblie_8_58
+  - first:
+      213: -146161644719957958
+    second: biblie_8_59
+  - first:
+      213: -4104875547342273357
+    second: biblie_8_60
+  - first:
+      213: -1147669424690548263
+    second: biblie_8_61
+  - first:
+      213: 3551817350008660134
+    second: biblie_8_62
+  - first:
+      213: 5070387268922467930
+    second: biblie_8_63
+  - first:
+      213: -6135791887692734307
+    second: biblie_8_64
+  - first:
+      213: 4627788868042617479
+    second: biblie_8_65
+  - first:
+      213: -7783621758807019816
+    second: biblie_8_66
+  - first:
+      213: -7841776124355414342
+    second: biblie_8_67
+  - first:
+      213: -6271325306901906358
+    second: biblie_8_68
+  - first:
+      213: 8329680759994616265
+    second: biblie_8_69
+  - first:
+      213: -3840673233453452344
+    second: biblie_8_70
+  - first:
+      213: -3670207368023381519
+    second: biblie_8_71
+  - first:
+      213: -917376989803559034
+    second: biblie_8_72
+  - first:
+      213: -7153708235374389007
+    second: biblie_8_73
+  - first:
+      213: 8626258192862002062
+    second: biblie_8_74
+  - first:
+      213: 6111947805101715280
+    second: biblie_8_75
+  - first:
+      213: 6141728678357834475
+    second: biblie_8_76
+  - first:
+      213: -8103331630880516430
+    second: biblie_8_77
+  - first:
+      213: 5998049140644273263
+    second: biblie_8_78
+  - first:
+      213: -6302875532461829344
+    second: biblie_8_79
+  - first:
+      213: -1783286414924108455
+    second: biblie_8_80
+  - first:
+      213: 5771049407276294558
+    second: biblie_8_81
+  - first:
+      213: -1660198289453794133
+    second: biblie_8_82
+  - first:
+      213: 1138705865761061111
+    second: biblie_8_83
+  - first:
+      213: -2591624789153819031
+    second: biblie_8_84
+  - first:
+      213: 283351973759859673
+    second: biblie_8_85
+  - first:
+      213: 1265951331662033228
+    second: biblie_8_86
+  - first:
+      213: -2997545772908980472
+    second: biblie_8_87
+  - first:
+      213: 6678051395675647896
+    second: biblie_8_88
+  - first:
+      213: -9000339782937189272
+    second: biblie_8_89
+  - first:
+      213: -570645523569177941
+    second: biblie_8_90
+  - first:
+      213: 5898598122630082542
+    second: biblie_8_91
+  - first:
+      213: 8460885086840591377
+    second: biblie_8_92
+  - first:
+      213: 7154671128680088631
+    second: biblie_8_93
+  - first:
+      213: -8200525522772430368
+    second: biblie_8_94
+  - first:
+      213: -8791625172299847973
+    second: biblie_8_95
+  - first:
+      213: 5309860093927921771
+    second: biblie_8_96
+  - first:
+      213: 3522241234723045440
+    second: biblie_8_97
+  - first:
+      213: 6301279476172319963
+    second: biblie_8_98
+  - first:
+      213: 7529468823664724786
+    second: biblie_8_99
+  - first:
+      213: -2565742188506921872
+    second: biblie_8_100
+  - first:
+      213: 7382876162716385378
+    second: biblie_8_101
+  - first:
+      213: -6874471345820265806
+    second: biblie_8_102
+  - first:
+      213: -3632832676104405457
+    second: biblie_8_103
+  - first:
+      213: 8863684088423290769
+    second: biblie_8_104
+  - first:
+      213: -2527810623454886594
+    second: biblie_8_105
+  - first:
+      213: 3025088257733171448
+    second: biblie_8_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: biblie_8_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 540
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb851c738e7f650800000000000000
+      internalID: 6266732732673997783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 548
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1aa6594644e06a0800000000000000
+      internalID: -6481167614945353310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 533
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92842383df7c8440800000000000000
+      internalID: 4939463437733626524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 547
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9de8f5676ca8850800000000000000
+      internalID: 6380130033835366850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 530
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e738dfb2f603d880800000000000000
+      internalID: -8587512424794933273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 553
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1f10b832b530d0800000000000000
+      internalID: -3443650383512134910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 529
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511fa5644f7b7b010800000000000000
+      internalID: 1204633685125165333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 535
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb2f7d87f43e450800000000000000
+      internalID: 6116820099336944600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 546
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f9828febb23c10800000000000000
+      internalID: 2031893019259172235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_9
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 535
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77b848d60c1aa50800000000000000
+      internalID: 6530712511271630766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 499
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af95fbc91abeaab00800000000000000
+      internalID: 840743359810066938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 512
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd10ac6fffdc56530800000000000000
+      internalID: 3847707955898745311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 481
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6096d0e5db3e85130800000000000000
+      internalID: 3555842308275267846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_13
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 485
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572bb327708392c20800000000000000
+      internalID: 3182136216346407541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 489
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631f6bb4a402e76e0800000000000000
+      internalID: -1837996094450634442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 493
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20abcbb5d5773120800000000000000
+      internalID: 2393511287809876010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 500
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed8d309a10e5650800000000000000
+      internalID: 6223413560498249268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 502
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb31b57b8ea90c010800000000000000
+      internalID: 1207135024434582463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 425
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2eb044292996f60800000000000000
+      internalID: 8028108967669129897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 442
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c861ff39f8db6a90800000000000000
+      internalID: -7319518204329367351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_20
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 459
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58855d968234896d0800000000000000
+      internalID: -2983560912279611259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 460
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae667c7cac27ec0800000000000000
+      internalID: -3570568595158668589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 460
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bba45851670fe0a0800000000000000
+      internalID: -6850248393532068939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 461
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a278715e0eeee50800000000000000
+      internalID: 6840652158569228869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_24
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 461
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9789724e2432fddc0800000000000000
+      internalID: -3612129605925234567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 462
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6359347010ec16110800000000000000
+      internalID: 1252508675197867318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 1
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ca8ae6556e8340800000000000000
+      internalID: 4867939671210639662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_27
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 415
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a70504f1016b8240800000000000000
+      internalID: 4795032889282856870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_28
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 449
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84210c9acd435e530800000000000000
+      internalID: 3883568376022307400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 444
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ebbe7aaf3a9a410800000000000000
+      internalID: 1488901448777055776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 418
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f1fc726b06d3a40800000000000000
+      internalID: 5349538267854217077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 421
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128221dd520c1de0800000000000000
+      internalID: -1361210385408818666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_32
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 426
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d9ae3eae88027b0800000000000000
+      internalID: -5251046623086469842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 437
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd860abcb7d1820800000000000000
+      internalID: 2890602650341530934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 423
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117c55b27afee6c30800000000000000
+      internalID: 4354681390979467025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 420
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e679d034e26584340800000000000000
+      internalID: 4848219755557787502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_36
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 427
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4ac2e36d9943840800000000000000
+      internalID: 5202952614964929767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 426
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12e6afb008c18810800000000000000
+      internalID: 1765912434446885407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 416
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad989dedafd63f7a0800000000000000
+      internalID: -6344606525786846758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 407
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7efb68e23f3bb0e0800000000000000
+      internalID: -2253137700688494979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 407
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704fc03c5d4193930800000000000000
+      internalID: 4123349842167395335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 279
+        width: 12
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc29181e0ce47b180800000000000000
+      internalID: -9099717931754745141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_42
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 404
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784de16908e381470800000000000000
+      internalID: 8365505029836035207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_43
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 405
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82c2064a0e3ccab0800000000000000
+      internalID: -4986542473560800626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_44
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 386
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b52ddcf035e5f470800000000000000
+      internalID: 8427894276257293750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_45
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328b22faa7eb52f10800000000000000
+      internalID: 2244409423447636003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 342
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc612487001e540800000000000000
+      internalID: 5035306374881791964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 344
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c660f7d44075e3d40800000000000000
+      internalID: 5565981865468167788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_48
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 360
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b297677f8eab590800000000000000
+      internalID: -7657552066847888532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 375
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4be1799b4824430800000000000000
+      internalID: 3765718171074344099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 292
+        width: 6
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f5a0688fe9d61b0800000000000000
+      internalID: -5661694366296940783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_51
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 384
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a977913e230c8d0800000000000000
+      internalID: -2828204615022437886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_52
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 379
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e286665f4a84f60800000000000000
+      internalID: 8018840510425214511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_53
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 372
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bcaedc00e746250800000000000000
+      internalID: 5937008750700972924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_54
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 293
+        width: 8
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0882fe3c7db2d7700800000000000000
+      internalID: 539635736059521152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_55
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 294
+        width: 24
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c385539229bd0e690800000000000000
+      internalID: -7574813152434104260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_56
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 362
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f22f87520f54840800000000000000
+      internalID: 5207832587857440587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 378
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb653c4c9813470800000000000000
+      internalID: 8372624660442299349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 345
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ddd3e70dc175a0800000000000000
+      internalID: -6525208951311707421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 360
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a381eae22cab8fdf0800000000000000
+      internalID: -146161644719957958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_60
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 359
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b40a71307d8807c0800000000000000
+      internalID: -4104875547342273357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_61
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 352
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d13eb52db8a210f0800000000000000
+      internalID: -1147669424690548263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_62
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 292
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e55ebf079a4130800000000000000
+      internalID: 3551817350008660134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_63
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 329
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5669c56b52ad5640800000000000000
+      internalID: 5070387268922467930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_64
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 328
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e95679c949daa0800000000000000
+      internalID: -6135791887692734307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_65
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 305
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ff27d475393040800000000000000
+      internalID: 4627788868042617479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_66
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 323
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de6e40ff350bf390800000000000000
+      internalID: -7783621758807019816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 299
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f7a3992a6c2390800000000000000
+      internalID: -7841776124355414342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_68
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 315
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cb13b3cd6c7f8a0800000000000000
+      internalID: -6271325306901906358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_69
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 310
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c982e7c488f89370800000000000000
+      internalID: 8329680759994616265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 250
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f7adfa0033bac0800000000000000
+      internalID: -3840673233453452344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_71
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 293
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e1f828ddc01dc0800000000000000
+      internalID: -3670207368023381519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_72
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 295
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68744adfc72d443f0800000000000000
+      internalID: -917376989803559034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_73
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 288
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f819bb034ce8bc90800000000000000
+      internalID: -7153708235374389007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_74
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 252
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb75e5f10a6b770800000000000000
+      internalID: 8626258192862002062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 211
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe0d0752002d450800000000000000
+      internalID: 6111947805101715280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_76
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 243
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea195451bdcb3550800000000000000
+      internalID: 6141728678357834475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_77
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 261
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b61e24a0de2b8f80800000000000000
+      internalID: -8103331630880516430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_78
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 238
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c50751ae95d3350800000000000000
+      internalID: 5998049140644273263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_79
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 217
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239c18e810b788a0800000000000000
+      internalID: -6302875532461829344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_80
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 239
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d2ba1347e7047e0800000000000000
+      internalID: -1783286414924108455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_81
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 197
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91aeed0cd2e61050800000000000000
+      internalID: 5771049407276294558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_82
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 222
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac356ca37ac5f8e0800000000000000
+      internalID: -1660198289453794133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_83
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 219
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f87758a3fe7dcf00800000000000000
+      internalID: 1138705865761061111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_84
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 182
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d36b3cf2b80cd0800000000000000
+      internalID: -2591624789153819031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_85
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbbc5e6e1baee300800000000000000
+      internalID: 283351973759859673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_86
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 212
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f5a26700919110800000000000000
+      internalID: 1265951331662033228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_87
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 211
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80759cf40049666d0800000000000000
+      internalID: -2997545772908980472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_88
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 201
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f6c0fcc543dac50800000000000000
+      internalID: 6678051395675647896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_89
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 195
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864663c37ae581380800000000000000
+      internalID: -9000339782937189272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 133
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa0ef27be8a418f0800000000000000
+      internalID: -570645523569177941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_91
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 180
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe62c8db70cd150800000000000000
+      internalID: 5898598122630082542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_92
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 75
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1149886a82a1b6570800000000000000
+      internalID: 8460885086840591377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_93
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 162
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73448b50c7f7a4360800000000000000
+      internalID: 7154671128680088631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 153
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ff9b3c71e13e80800000000000000
+      internalID: -8200525522772430368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_95
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 133
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66fae5c7fddf580800000000000000
+      internalID: -8791625172299847973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 137
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6898916f9960b940800000000000000
+      internalID: 5309860093927921771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_97
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 94
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04086e8cdb381e030800000000000000
+      internalID: 3522241234723045440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 129
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdce5b74c44a27750800000000000000
+      internalID: 6301279476172319963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_99
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b0ae5900c0e7860800000000000000
+      internalID: 7529468823664724786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_100
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 62
+        width: 124
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074cfccc217a46cd0800000000000000
+      internalID: -2565742188506921872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_101
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 74
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260c86bf0ce357660800000000000000
+      internalID: 7382876162716385378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b218c5cbb8f890a0800000000000000
+      internalID: -6874471345820265806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 47
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e7d5cbde5959dc0800000000000000
+      internalID: -3632832676104405457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_104
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 5
+        width: 153
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19790c377b1220b70800000000000000
+      internalID: 8863684088423290769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 11
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35438181a96becd0800000000000000
+      internalID: -2527810623454886594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biblie_8_106
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f814682eb54bf920800000000000000
+      internalID: 3025088257733171448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

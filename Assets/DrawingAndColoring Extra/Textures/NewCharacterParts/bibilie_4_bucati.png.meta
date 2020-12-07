@@ -1,0 +1,3346 @@
+fileFormatVersion: 2
+guid: 5c25c4fd29511464c824021d846ac0e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2315055724322876495
+    second: bibilie_4_bucati_0
+  - first:
+      213: 2142806815612018840
+    second: bibilie_4_bucati_1
+  - first:
+      213: -4333821389260641697
+    second: bibilie_4_bucati_2
+  - first:
+      213: -2181959037299844135
+    second: bibilie_4_bucati_3
+  - first:
+      213: -6557079927173968401
+    second: bibilie_4_bucati_4
+  - first:
+      213: 8456945445271388506
+    second: bibilie_4_bucati_5
+  - first:
+      213: 488365538419567540
+    second: bibilie_4_bucati_6
+  - first:
+      213: -1069366792023698293
+    second: bibilie_4_bucati_7
+  - first:
+      213: 4606471434334105274
+    second: bibilie_4_bucati_8
+  - first:
+      213: -8604306260065052318
+    second: bibilie_4_bucati_9
+  - first:
+      213: 8122536825504640675
+    second: bibilie_4_bucati_10
+  - first:
+      213: -2950870904921196840
+    second: bibilie_4_bucati_11
+  - first:
+      213: 63827434050708295
+    second: bibilie_4_bucati_12
+  - first:
+      213: 8325615118423167992
+    second: bibilie_4_bucati_13
+  - first:
+      213: 35014680439007300
+    second: bibilie_4_bucati_14
+  - first:
+      213: -64446179436812296
+    second: bibilie_4_bucati_15
+  - first:
+      213: -644670618560719441
+    second: bibilie_4_bucati_16
+  - first:
+      213: -441368083974494396
+    second: bibilie_4_bucati_17
+  - first:
+      213: -2814755588357603695
+    second: bibilie_4_bucati_18
+  - first:
+      213: -4819913430943615366
+    second: bibilie_4_bucati_19
+  - first:
+      213: 5216672245134419564
+    second: bibilie_4_bucati_20
+  - first:
+      213: 8243611104109726928
+    second: bibilie_4_bucati_21
+  - first:
+      213: -7471174978045590835
+    second: bibilie_4_bucati_22
+  - first:
+      213: -1691262702336233957
+    second: bibilie_4_bucati_23
+  - first:
+      213: -9212545503502360155
+    second: bibilie_4_bucati_24
+  - first:
+      213: -881277209854700456
+    second: bibilie_4_bucati_25
+  - first:
+      213: -2624446542677096473
+    second: bibilie_4_bucati_26
+  - first:
+      213: 1261275117635989720
+    second: bibilie_4_bucati_27
+  - first:
+      213: 8166538161149539586
+    second: bibilie_4_bucati_28
+  - first:
+      213: -830209947354363899
+    second: bibilie_4_bucati_29
+  - first:
+      213: -2055890900099951942
+    second: bibilie_4_bucati_30
+  - first:
+      213: 2993631612124304939
+    second: bibilie_4_bucati_31
+  - first:
+      213: -6013514343916761393
+    second: bibilie_4_bucati_32
+  - first:
+      213: -5418826567986386661
+    second: bibilie_4_bucati_33
+  - first:
+      213: -5463782855007056751
+    second: bibilie_4_bucati_34
+  - first:
+      213: 8397514264435320714
+    second: bibilie_4_bucati_35
+  - first:
+      213: 2981140961788915286
+    second: bibilie_4_bucati_36
+  - first:
+      213: 5170924529386692070
+    second: bibilie_4_bucati_37
+  - first:
+      213: 1206146009439734125
+    second: bibilie_4_bucati_38
+  - first:
+      213: -7551218617472325576
+    second: bibilie_4_bucati_39
+  - first:
+      213: 7201682701775575339
+    second: bibilie_4_bucati_40
+  - first:
+      213: -2946384441247832680
+    second: bibilie_4_bucati_41
+  - first:
+      213: 1312519280154804261
+    second: bibilie_4_bucati_42
+  - first:
+      213: 1069364143864024213
+    second: bibilie_4_bucati_43
+  - first:
+      213: 9075369494941777316
+    second: bibilie_4_bucati_44
+  - first:
+      213: -7175102978931021687
+    second: bibilie_4_bucati_45
+  - first:
+      213: -7987619826076474240
+    second: bibilie_4_bucati_46
+  - first:
+      213: 1926222189538216304
+    second: bibilie_4_bucati_47
+  - first:
+      213: 2938817050281539621
+    second: bibilie_4_bucati_48
+  - first:
+      213: -2371315300280399751
+    second: bibilie_4_bucati_49
+  - first:
+      213: 8764901905647228168
+    second: bibilie_4_bucati_50
+  - first:
+      213: -7966624443403012436
+    second: bibilie_4_bucati_51
+  - first:
+      213: -8110500243218295295
+    second: bibilie_4_bucati_52
+  - first:
+      213: 1385431043078139829
+    second: bibilie_4_bucati_53
+  - first:
+      213: -7984895815260044521
+    second: bibilie_4_bucati_54
+  - first:
+      213: 7483533459268209995
+    second: bibilie_4_bucati_55
+  - first:
+      213: 1723096206888929083
+    second: bibilie_4_bucati_56
+  - first:
+      213: 601244288926707697
+    second: bibilie_4_bucati_57
+  - first:
+      213: -4282772829734724362
+    second: bibilie_4_bucati_58
+  - first:
+      213: 8586548221899213359
+    second: bibilie_4_bucati_59
+  - first:
+      213: -4778873050983048164
+    second: bibilie_4_bucati_60
+  - first:
+      213: -5077431862378426895
+    second: bibilie_4_bucati_61
+  - first:
+      213: -2253968405580070922
+    second: bibilie_4_bucati_62
+  - first:
+      213: -145843545534464131
+    second: bibilie_4_bucati_63
+  - first:
+      213: -8697834147177956639
+    second: bibilie_4_bucati_64
+  - first:
+      213: -4178715260601805271
+    second: bibilie_4_bucati_65
+  - first:
+      213: -2520892712675757763
+    second: bibilie_4_bucati_66
+  - first:
+      213: 209235521442178368
+    second: bibilie_4_bucati_67
+  - first:
+      213: 8677711272797015998
+    second: bibilie_4_bucati_68
+  - first:
+      213: 4038094768450440308
+    second: bibilie_4_bucati_69
+  - first:
+      213: -3991023923941043343
+    second: bibilie_4_bucati_70
+  - first:
+      213: -4041360929494452914
+    second: bibilie_4_bucati_71
+  - first:
+      213: 6972434291793794158
+    second: bibilie_4_bucati_72
+  - first:
+      213: 8613867167535619260
+    second: bibilie_4_bucati_73
+  - first:
+      213: 8247368575003270711
+    second: bibilie_4_bucati_74
+  - first:
+      213: 8485129714151028448
+    second: bibilie_4_bucati_75
+  - first:
+      213: 6944198594956728246
+    second: bibilie_4_bucati_76
+  - first:
+      213: -3841296886012598790
+    second: bibilie_4_bucati_77
+  - first:
+      213: -4240708377298465017
+    second: bibilie_4_bucati_78
+  - first:
+      213: -4206861258959761140
+    second: bibilie_4_bucati_79
+  - first:
+      213: -4687715081483750873
+    second: bibilie_4_bucati_80
+  - first:
+      213: 8000467524290684987
+    second: bibilie_4_bucati_81
+  - first:
+      213: -4991299002055490075
+    second: bibilie_4_bucati_82
+  - first:
+      213: -7449875656574214240
+    second: bibilie_4_bucati_83
+  - first:
+      213: 5855436778353735540
+    second: bibilie_4_bucati_84
+  - first:
+      213: 1036275253310388016
+    second: bibilie_4_bucati_85
+  - first:
+      213: -7306952345033823391
+    second: bibilie_4_bucati_86
+  - first:
+      213: 3170319129401871690
+    second: bibilie_4_bucati_87
+  - first:
+      213: -5974981667300644836
+    second: bibilie_4_bucati_88
+  - first:
+      213: -6503973793642530328
+    second: bibilie_4_bucati_89
+  - first:
+      213: -3308698521830793969
+    second: bibilie_4_bucati_90
+  - first:
+      213: 8469377872327977798
+    second: bibilie_4_bucati_91
+  - first:
+      213: -330823878879911238
+    second: bibilie_4_bucati_92
+  - first:
+      213: 3416269901700692556
+    second: bibilie_4_bucati_93
+  - first:
+      213: -7505941594449037431
+    second: bibilie_4_bucati_94
+  - first:
+      213: 8046520927671711491
+    second: bibilie_4_bucati_95
+  - first:
+      213: -3680065299892107378
+    second: bibilie_4_bucati_96
+  - first:
+      213: 8442114904764737967
+    second: bibilie_4_bucati_97
+  - first:
+      213: -8597063662989520720
+    second: bibilie_4_bucati_98
+  - first:
+      213: -5712527745803910473
+    second: bibilie_4_bucati_99
+  - first:
+      213: -2155182860096404843
+    second: bibilie_4_bucati_100
+  - first:
+      213: 8050736178617390774
+    second: bibilie_4_bucati_101
+  - first:
+      213: -631481256982854430
+    second: bibilie_4_bucati_102
+  - first:
+      213: 3046263343070684234
+    second: bibilie_4_bucati_103
+  - first:
+      213: -4656390935054535028
+    second: bibilie_4_bucati_104
+  - first:
+      213: 368686767055391841
+    second: bibilie_4_bucati_105
+  - first:
+      213: -3183430096954064495
+    second: bibilie_4_bucati_106
+  - first:
+      213: -6731588990140747226
+    second: bibilie_4_bucati_107
+  - first:
+      213: -3800200811928303978
+    second: bibilie_4_bucati_108
+  - first:
+      213: -1850646228109152421
+    second: bibilie_4_bucati_109
+  - first:
+      213: 4032367262990358870
+    second: bibilie_4_bucati_110
+  - first:
+      213: 8753641863165329660
+    second: bibilie_4_bucati_111
+  - first:
+      213: 1326539021432600825
+    second: bibilie_4_bucati_112
+  - first:
+      213: 7463710315872700621
+    second: bibilie_4_bucati_113
+  - first:
+      213: -7057688493669162881
+    second: bibilie_4_bucati_114
+  - first:
+      213: 3762585789719991053
+    second: bibilie_4_bucati_115
+  - first:
+      213: 1410723582548350240
+    second: bibilie_4_bucati_116
+  - first:
+      213: -1066357748555097324
+    second: bibilie_4_bucati_117
+  - first:
+      213: -1539162928073507782
+    second: bibilie_4_bucati_118
+  - first:
+      213: 379301243066253911
+    second: bibilie_4_bucati_119
+  - first:
+      213: 3641058906431836449
+    second: bibilie_4_bucati_120
+  - first:
+      213: -2937928379600201771
+    second: bibilie_4_bucati_121
+  - first:
+      213: -2137537434933265827
+    second: bibilie_4_bucati_122
+  - first:
+      213: -1683149701213487191
+    second: bibilie_4_bucati_123
+  - first:
+      213: 3906125591841888451
+    second: bibilie_4_bucati_124
+  - first:
+      213: 6644487461433658567
+    second: bibilie_4_bucati_125
+  - first:
+      213: 3049021720781819785
+    second: bibilie_4_bucati_126
+  - first:
+      213: -5509904016870281544
+    second: bibilie_4_bucati_127
+  - first:
+      213: -2452543527656100730
+    second: bibilie_4_bucati_128
+  - first:
+      213: 8050981162516195597
+    second: bibilie_4_bucati_129
+  - first:
+      213: -6278101174101458440
+    second: bibilie_4_bucati_130
+  - first:
+      213: -1364097514751583307
+    second: bibilie_4_bucati_131
+  - first:
+      213: -180313296171261490
+    second: bibilie_4_bucati_132
+  - first:
+      213: 4671816326359352678
+    second: bibilie_4_bucati_133
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bibilie_4_bucati_0
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 553
+        width: 159
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3108c95154fdfd0800000000000000
+      internalID: -2315055724322876495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 501
+        width: 5
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89027da1277ccbd10800000000000000
+      internalID: 2142806815612018840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_2
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 565
+        width: 147
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a2125786c2bd3c0800000000000000
+      internalID: -4333821389260641697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 492
+        width: 150
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1a4be0df18b1e0800000000000000
+      internalID: -2181959037299844135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 522
+        width: 164
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed83f01c829005a0800000000000000
+      internalID: -6557079927173968401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 525
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51424e531b1d5570800000000000000
+      internalID: 8456945445271388506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_6
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 527
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb6a06aed507c600800000000000000
+      internalID: 488365538419567540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 525
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8414d28198d821f0800000000000000
+      internalID: -1069366792023698293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_8
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 523
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abee7770d597def30800000000000000
+      internalID: 4606471434334105274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 490
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26917264b0d579880800000000000000
+      internalID: -8604306260065052318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 485
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeab3f253c09b070800000000000000
+      internalID: 8122536825504640675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 487
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6f22edb866c07d0800000000000000
+      internalID: -2950870904921196840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 472
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743648d86b2c2e000800000000000000
+      internalID: 63827434050708295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_13
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 482
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f31c36d6d68a8370800000000000000
+      internalID: 8325615118423167992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 449
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ad759aa56c7000800000000000000
+      internalID: 35014680439007300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 459
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a98f8a8a0b1ff0800000000000000
+      internalID: -64446179436812296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_16
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 473
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59e8fec7bad07f0800000000000000
+      internalID: -644670618560719441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 452
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447618be012ffd9f0800000000000000
+      internalID: -441368083974494396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 448
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e3662a4baffe8d0800000000000000
+      internalID: -2814755588357603695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_19
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 433
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b874854a3c1db0800000000000000
+      internalID: -4819913430943615366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_20
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 431
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6660e094c7556840800000000000000
+      internalID: 5216672245134419564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_21
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 452
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc0de66f90376270800000000000000
+      internalID: 8243611104109726928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_22
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 377
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc24ec201fd015890800000000000000
+      internalID: -7471174978045590835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_23
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 410
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ea16d688d6788e0800000000000000
+      internalID: -1691262702336233957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 435
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1ae9abca6762080800000000000000
+      internalID: -9212545503502360155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_25
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 446
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85496fdfb0315c3f0800000000000000
+      internalID: -881277209854700456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 418
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7cabb36c7149bd0800000000000000
+      internalID: -2624446542677096473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_27
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 422
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d07bb67903f08110800000000000000
+      internalID: 1261275117635989720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_28
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 428
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057dfb703f555170800000000000000
+      internalID: 8166538161149539586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 426
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50882f693708a74f0800000000000000
+      internalID: -830209947354363899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 400
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab295927e120873e0800000000000000
+      internalID: -2055890900099951942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 420
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b269c0d17148b8920800000000000000
+      internalID: 2993631612124304939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_32
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 405
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce002fa094bb8ca0800000000000000
+      internalID: -6013514343916761393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_33
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 379
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e8b352f57cc4b0800000000000000
+      internalID: -5418826567986386661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_34
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 384
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c4f65117ebc24b0800000000000000
+      internalID: -5463782855007056751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_35
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 397
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8761f74bb6f98470800000000000000
+      internalID: 8397514264435320714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_36
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 391
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e6bc4f8e32f5920800000000000000
+      internalID: 2981140961788915286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_37
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 399
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed92767670d2c740800000000000000
+      internalID: 5170924529386692070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_38
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 390
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6909e7b7671db010800000000000000
+      internalID: 1206146009439734125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 384
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ee3cecaea43790800000000000000
+      internalID: -7551218617472325576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_40
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 348
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299868d24481f360800000000000000
+      internalID: 7201682701775575339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_41
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 365
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8956fa716f65c17d0800000000000000
+      internalID: -2946384441247832680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_42
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 337
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5208a7ec451073210800000000000000
+      internalID: 1312519280154804261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_43
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 321
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c0e8ae50527de00800000000000000
+      internalID: 1069364143864024213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_44
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 369
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adbb67e87032fd70800000000000000
+      internalID: 9075369494941777316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_45
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 369
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98828f12bd9ec6c90800000000000000
+      internalID: -7175102978931021687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_46
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 364
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08428d1a616462190800000000000000
+      internalID: -7987619826076474240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_47
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 365
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07986e530e05bba10800000000000000
+      internalID: 1926222189538216304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_48
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 350
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52874e56986c8c820800000000000000
+      internalID: 2938817050281539621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_49
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 321
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97886545c45671fd0800000000000000
+      internalID: -2371315300280399751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_50
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 347
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8055f3148df23a970800000000000000
+      internalID: 8764901905647228168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_51
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 308
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f408174dd07190800000000000000
+      internalID: -7966624443403012436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_52
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 338
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10611440007b17f80800000000000000
+      internalID: -8110500243218295295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_53
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 337
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfa87f713a0a3310800000000000000
+      internalID: 1385431043078139829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_54
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 350
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130ce2df83ff2190800000000000000
+      internalID: -7984895815260044521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_55
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 338
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d8e60280adad760800000000000000
+      internalID: 7483533459268209995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_56
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 332
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37007deedaa9e710800000000000000
+      internalID: 1723096206888929083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_57
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 341
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff65b8ce7c085800800000000000000
+      internalID: 601244288926707697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_58
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 300
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc97fd6dc88094c0800000000000000
+      internalID: -4282772829734724362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_59
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 312
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a80154d1c892770800000000000000
+      internalID: 8586548221899213359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_60
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 311
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd77997480eadb0800000000000000
+      internalID: -4778873050983048164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_61
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 318
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd0faf5f965989b0800000000000000
+      internalID: -5077431862378426895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_62
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 305
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff327a5dab48b0e0800000000000000
+      internalID: -2253968405580070922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_63
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 313
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f72ab611cd9fdf0800000000000000
+      internalID: -145843545534464131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_64
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 238
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf13e1de51b4780800000000000000
+      internalID: -8697834147177956639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_65
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 272
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926535a3c983206c0800000000000000
+      internalID: -4178715260601805271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_66
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 288
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3137102f6df30dd0800000000000000
+      internalID: -2520892712675757763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_67
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 270
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04564f1299a57e200800000000000000
+      internalID: 209235521442178368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_68
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 295
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf08761d6c6d6870800000000000000
+      internalID: 8677711272797015998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_69
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 289
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c0ad21cc13a0830800000000000000
+      internalID: 4038094768450440308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_70
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 244
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1739863f2e80d98c0800000000000000
+      internalID: -3991023923941043343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_71
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 303
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45375c85a33ae7c0800000000000000
+      internalID: -4041360929494452914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_72
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 274
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e641f1efb0013c060800000000000000
+      internalID: 6972434291793794158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_73
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 235
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc5c57fc8a9a8770800000000000000
+      internalID: 8613867167535619260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_74
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 276
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e1ac4c50a847270800000000000000
+      internalID: 8247368575003270711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_75
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 292
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e67515d48c31c570800000000000000
+      internalID: 8485129714151028448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_76
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 282
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7992684dfbe5060800000000000000
+      internalID: 6944198594956728246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_77
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 257
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5a76095d8f0bac0800000000000000
+      internalID: -3841296886012598790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_78
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 289
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f0a17f23af525c0800000000000000
+      internalID: -4240708377298465017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_79
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 234
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01d95059f93e95c0800000000000000
+      internalID: -4206861258959761140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_80
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 263
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7227bef48f3e1feb0800000000000000
+      internalID: -4687715081483750873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_81
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 296
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38256633de570f60800000000000000
+      internalID: 8000467524290684987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_82
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 275
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e588bea0085bbab0800000000000000
+      internalID: -4991299002055490075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_83
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 194
+        width: 12
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af501dbf89bc9890800000000000000
+      internalID: -7449875656574214240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_84
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 269
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477388af9b0b24150800000000000000
+      internalID: 5855436778353735540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_85
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 253
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037f71b3ad6916e00800000000000000
+      internalID: 1036275253310388016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 177
+        width: 25
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b2d8b5e8d789a90800000000000000
+      internalID: -7306952345033823391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_87
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 236
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dcf9c737c3ffb20800000000000000
+      internalID: 3170319129401871690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_88
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 245
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e21594d9941da0800000000000000
+      internalID: -5974981667300644836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_89
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 234
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9bc715b4e3db5a0800000000000000
+      internalID: -6503973793642530328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_90
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 235
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d5a6189342512d0800000000000000
+      internalID: -3308698521830793969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_91
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 218
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ba9ac5d46498570800000000000000
+      internalID: 8469377872327977798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_92
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 185
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab265285f6da86bf0800000000000000
+      internalID: -330823878879911238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_93
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 192
+        width: 4
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a7abb1067096f20800000000000000
+      internalID: 3416269901700692556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_94
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 157
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987390653e985d790800000000000000
+      internalID: -7505941594449037431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_95
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077e93c62cfaaf60800000000000000
+      internalID: 8046520927671711491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_96
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 213
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8780b98b18cdecc0800000000000000
+      internalID: -3680065299892107378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_97
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 180
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9688317ca682570800000000000000
+      internalID: 8442114904764737967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_98
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 178
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b05710d52811b880800000000000000
+      internalID: -8597063662989520720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_99
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 199
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b28bcd084609b0b0800000000000000
+      internalID: -5712527745803910473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_100
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 210
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59281fd7b904712e0800000000000000
+      internalID: -2155182860096404843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_101
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 210
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b610ea56e5f9bf60800000000000000
+      internalID: 8050736178617390774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_102
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 201
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4483b74278c37f0800000000000000
+      internalID: -631481256982854430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_103
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 177
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44a508ee50864a20800000000000000
+      internalID: 3046263343070684234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_104
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 180
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86b9bc7d1d216fb0800000000000000
+      internalID: -4656390935054535028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_105
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 183
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c49b749a6dd1500800000000000000
+      internalID: 368686767055391841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_106
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 140
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19104cf713f22d3d0800000000000000
+      internalID: -3183430096954064495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_107
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 155
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622fabc9a779492a0800000000000000
+      internalID: -6731588990140747226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_108
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 168
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ccd1fe79f24bc0800000000000000
+      internalID: -3800200811928303978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_109
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 160
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f23a88f0f2156e0800000000000000
+      internalID: -1850646228109152421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_110
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 138
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659547a49a8d5f730800000000000000
+      internalID: 4032367262990358870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_111
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 143
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf045f055ee2b7970800000000000000
+      internalID: 8753641863165329660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_112
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 150
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f83f213630d86210800000000000000
+      internalID: 1326539021432600825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_113
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 113
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c204ecfc649760800000000000000
+      internalID: 7463710315872700621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_114
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 139
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70ec7f45bd0e0e90800000000000000
+      internalID: -7057688493669162881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_115
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 129
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03513937d3673430800000000000000
+      internalID: 3762585789719991053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_116
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 114
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0259f0ebf95e39310800000000000000
+      internalID: 1410723582548350240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_117
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 121
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b53e907498331f0800000000000000
+      internalID: -1066357748555097324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_118
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 133
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c7ab4c87bc3aae0800000000000000
+      internalID: -1539162928073507782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_119
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 83
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75204df887c834500800000000000000
+      internalID: 379301243066253911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_120
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 5
+        width: 16
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215424c8c3a78230800000000000000
+      internalID: 3641058906431836449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_121
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 111
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7146e54b16a37d0800000000000000
+      internalID: -2937928379600201771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_122
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 86
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5af3b03701f552e0800000000000000
+      internalID: -2137537434933265827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_123
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3
+        width: 12
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af7d53b34044a8e0800000000000000
+      internalID: -1683149701213487191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_124
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 103
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c85ccdb788553630800000000000000
+      internalID: 3906125591841888451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_125
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 4
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc4a456426f53c50800000000000000
+      internalID: 6644487461433658567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_126
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 82
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f86a3c91d405a20800000000000000
+      internalID: 3049021720781819785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_127
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 5
+        width: 33
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee2f74d73e883b0800000000000000
+      internalID: -5509904016870281544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_128
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 56
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cefddd7a0d6fdd0800000000000000
+      internalID: -2452543527656100730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_129
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 18
+        width: 122
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09a32d16b4dabf60800000000000000
+      internalID: 8050981162516195597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_130
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f148b5be34bfd8a0800000000000000
+      internalID: -6278101174101458440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_131
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 7
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1d32a980c11de0800000000000000
+      internalID: -1364097514751583307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_132
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 6
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1ae6133066f7df0800000000000000
+      internalID: -180313296171261490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bibilie_4_bucati_133
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 455
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665058c4230a5d040800000000000000
+      internalID: 4671816326359352678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -20,7 +20,10 @@ public class ImageID : MonoBehaviour
     public void ImageActive()
     {
         InstantiateImages.enable = true;
+        InstantiateImages.first = true;
+       
         InstantiateImages.imageNumber = ID;
+      
         SceneManager.LoadScene("MainGame");
        
     }

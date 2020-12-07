@@ -1010,7 +1010,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 					part.GetComponent<SpriteRenderer>().color = Color.white;
 					Area.shapesDrawingContents [ShapesManager.instance.lastSelectedShape].shapePartsColors[part.name] = Color.white;
 					part.GetComponent<ShapePart>().ApplyInitialSortingOrder();
-					part.GetComponent<ShapePart>().ApplyInitialColor();
+				    part.GetComponent<ShapePart>().ApplyInitialColor();
 					Area.shapesDrawingContents [ShapesManager.instance.lastSelectedShape].shapePartsSortingOrder[part.name] = part.GetComponent<ShapePart>().initialSortingOrder;
 				}
 			}
@@ -1040,8 +1040,8 @@ namespace IndieStudio.DrawingAndColoring.Logic
 					foreach (Transform part in shapeParts) {
 						part.GetComponent<SpriteRenderer> ().color = Color.white;
 						Area.shapesDrawingContents [i].shapePartsColors [part.name] = Color.white;
-						part.GetComponent<ShapePart> ().ApplyInitialSortingOrder ();
-						part.GetComponent<ShapePart> ().ApplyInitialColor ();
+						part.GetComponent<ShapePart> ().ApplyInitialSortingOrder();
+					 	part.GetComponent<ShapePart> ().ApplyInitialColor ();
 						Area.shapesDrawingContents [i].shapePartsSortingOrder [part.name] = part.GetComponent<ShapePart> ().initialSortingOrder;
 					}
 				}

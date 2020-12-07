@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: a2da8b29ecb2b614a9c7739f1760c768
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 113248520529521905
+    second: bib 6_0
+  - first:
+      213: -4101017417224518790
+    second: bib 6_1
+  - first:
+      213: -2289337693767791855
+    second: bib 6_2
+  - first:
+      213: 5682212079885683891
+    second: bib 6_3
+  - first:
+      213: -4017176904534431909
+    second: bib 6_4
+  - first:
+      213: -7033082589251711614
+    second: bib 6_5
+  - first:
+      213: -8042218628922210735
+    second: bib 6_6
+  - first:
+      213: 1772744086109396408
+    second: bib 6_7
+  - first:
+      213: 3348054752108770990
+    second: bib 6_8
+  - first:
+      213: 5248408394710723269
+    second: bib 6_9
+  - first:
+      213: 5628155450717946552
+    second: bib 6_10
+  - first:
+      213: 7686974543495438029
+    second: bib 6_11
+  - first:
+      213: 6451999124813584990
+    second: bib 6_12
+  - first:
+      213: -5269117533448864522
+    second: bib 6_13
+  - first:
+      213: -4295828154958639739
+    second: bib 6_14
+  - first:
+      213: -8497144947853600420
+    second: bib 6_15
+  - first:
+      213: 850234379257423787
+    second: bib 6_16
+  - first:
+      213: -6671270282787574945
+    second: bib 6_17
+  - first:
+      213: -7756964081872655871
+    second: bib 6_18
+  - first:
+      213: 3132266759558257988
+    second: bib 6_19
+  - first:
+      213: 1659561900017310268
+    second: bib 6_20
+  - first:
+      213: -3473742964325356858
+    second: bib 6_21
+  - first:
+      213: 1859819658263987228
+    second: bib 6_22
+  - first:
+      213: -1021758141313490498
+    second: bib 6_23
+  - first:
+      213: -2349193524198473945
+    second: bib 6_24
+  - first:
+      213: -8528457838131837325
+    second: bib 6_25
+  - first:
+      213: 8740664374994129602
+    second: bib 6_26
+  - first:
+      213: 1352386202680772809
+    second: bib 6_27
+  - first:
+      213: -6384788179140839387
+    second: bib 6_28
+  - first:
+      213: -5549540610409530610
+    second: bib 6_29
+  - first:
+      213: -3948273313316390763
+    second: bib 6_30
+  - first:
+      213: -5458302106504585590
+    second: bib 6_31
+  - first:
+      213: 3311104156699565196
+    second: bib 6_32
+  - first:
+      213: -1267061001677858627
+    second: bib 6_33
+  - first:
+      213: -8662220320550688709
+    second: bib 6_34
+  - first:
+      213: -5862178552597242191
+    second: bib 6_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bib 6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc208dede6529100800000000000000
+      internalID: 113248520529521905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 519
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7384ac13624617c0800000000000000
+      internalID: -4101017417224518790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 520
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b0f083f73aa30e0800000000000000
+      internalID: -2289337693767791855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 520
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc0500f7c54bde40800000000000000
+      internalID: 5682212079885683891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 508
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b576255a3ee1048c0800000000000000
+      internalID: -4017176904534431909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 504
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dcaafd5a8756e90800000000000000
+      internalID: -7033082589251711614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 530
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156001934cc446090800000000000000
+      internalID: -8042218628922210735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 455
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd993a9a5d0a9810800000000000000
+      internalID: 1772744086109396408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 476
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6700cee0ea67e20800000000000000
+      internalID: 3348054752108770990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 482
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca29e2b0a716d840800000000000000
+      internalID: 5248408394710723269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 485
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2c8bc20993b1e40800000000000000
+      internalID: 5628155450717946552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 455
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1486be9e9daa60800000000000000
+      internalID: 7686974543495438029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 446
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a15a5150b1a8950800000000000000
+      internalID: 6451999124813584990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 452
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7ff2358550e6b0800000000000000
+      internalID: -5269117533448864522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 419
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d8197ad072264c0800000000000000
+      internalID: -4295828154958639739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 414
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595e2290b3141a80800000000000000
+      internalID: -8497144947853600420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 416
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7a677c9a3accb00800000000000000
+      internalID: 850234379257423787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 362
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ba3d11603ea63a0800000000000000
+      internalID: -6671270282787574945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 387
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a2484044ab95490800000000000000
+      internalID: -7756964081872655871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 374
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ddb39b50c087b20800000000000000
+      internalID: 3132266759558257988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 378
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3add4d51c2f70710800000000000000
+      internalID: 1659561900017310268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 363
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caef5abd29cacfc0800000000000000
+      internalID: -3473742964325356858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_22
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 356
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c140d1d10286fc910800000000000000
+      internalID: 1859819658263987228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 331
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb165ac426cf1d1f0800000000000000
+      internalID: -1021758141313490498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 346
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f7081bfecf56fd0800000000000000
+      internalID: -2349193524198473945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 353
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376814c28c4d4a980800000000000000
+      internalID: -8528457838131837325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 263
+        width: 9
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2df6460f31d4970800000000000000
+      internalID: 8740664374994129602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 300
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c84de90614a4c210800000000000000
+      internalID: 1352386202680772809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 207
+        width: 39
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5287238aafca467a0800000000000000
+      internalID: -6384788179140839387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b7fe1b7321cf2b0800000000000000
+      internalID: -5549540610409530610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 230
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5983f93275ae439c0800000000000000
+      internalID: -3948273313316390763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 145
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e170947273044b0800000000000000
+      internalID: -5458302106504585590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 87
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c956200b763fd20800000000000000
+      internalID: 3311104156699565196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_33
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 7
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db89d3e6bbe7a6ee0800000000000000
+      internalID: -1267061001677858627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2
+        width: 170
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38e76b438c99c780800000000000000
+      internalID: -8662220320550688709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bib 6_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 251
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be17826aab55aea0800000000000000
+      internalID: -5862178552597242191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

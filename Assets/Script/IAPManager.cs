@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 public class IAPManager : MonoBehaviour, IStoreListener
 {
     public static IAPManager instance;
-    public Toast toast;
+
 
     public static bool isRemoved = false;
     public static bool isRemoved1 = false;
@@ -72,19 +72,19 @@ public class IAPManager : MonoBehaviour, IStoreListener
         {
             isRemoved = true;
             Debug.Log("Cumparat set2");
-            
-    
+            PlayerPrefs.SetInt("Removed", isRemoved ? 1 : 0);
+
         }else if (String.Equals(args.purchasedProduct.definition.id, removeLock1, StringComparison.Ordinal))
         {
            isRemoved1 = true;
            Debug.Log("Cumparat set3");
-           
+           PlayerPrefs.SetInt("Removed1", isRemoved1 ? 1 : 0);
         }
         else if (String.Equals(args.purchasedProduct.definition.id, removeLock2, StringComparison.Ordinal))
         {
             isRemoved2 = true;
             Debug.Log("Cumparat set4");
-
+            PlayerPrefs.SetInt("Removed2", isRemoved2 ? 1 : 0);
         }
         else
         {
@@ -110,6 +110,10 @@ public class IAPManager : MonoBehaviour, IStoreListener
 
     void Start()
     {
+        isRemoved = PlayerPrefs.GetInt("Removed") == 1 ? true : false;
+        isRemoved1 = PlayerPrefs.GetInt("Removed1") == 1 ? true : false;
+        isRemoved2 = PlayerPrefs.GetInt("Removed2") == 1 ? true : false;
+      
         if (m_StoreController == null) { InitializePurchasing(); }
     }
 

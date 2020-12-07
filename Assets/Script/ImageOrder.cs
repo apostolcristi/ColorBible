@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using IndieStudio.DrawingAndColoring.Logic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.UIElements;
 using Button = UnityEngine.UI.Button;
 
@@ -24,7 +25,11 @@ public class ImageOrder : MonoBehaviour
       
            // InitializeSet();
         Initialize();
-
+        RectTransform parent = gameObject.GetComponent<RectTransform>();
+        GridLayoutGroup grid = gameObject.GetComponent<GridLayoutGroup>();
+        float Lines =Mathf.Ceil(imageHolder.arrays[imageSet].objects.Length / 4.0f);
+        
+      // grid.cellSize = new Vector2(parent.rect.width/4,parent.rect.height/Lines);
     }
 
 

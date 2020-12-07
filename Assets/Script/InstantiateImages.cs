@@ -12,10 +12,15 @@ public class InstantiateImages : MonoBehaviour
     public GameObject imagesParent;
     public GameObject drawingParent;
 
+
+    private string[,] firstColorImage = new string[100,100];
+    public static bool first = true;
     public static int imageNumber=0;
     public static bool enable = true;
 
-private GameObject[ , ] imageArray = new GameObject[100,100];
+
+
+public static GameObject[ , ] imageArray = new GameObject[100,100];
 [HideInInspector]
 public GameObject[,] drawArray = new GameObject[100, 100];
 
@@ -28,8 +33,8 @@ public GameObject[,] drawArray = new GameObject[100, 100];
             instance = this;
             DontDestroyOnLoad(gameObject);
             InstantiatePrefabImages();
-        
-           
+     
+         
 
         }
         else
@@ -44,16 +49,13 @@ public GameObject[,] drawArray = new GameObject[100, 100];
             Destroy(gameObject);
         }
         
-        
+
     }
 
     void Start()
     {
         DrawingInstantiate();
-        
-        
-        
-            
+
         for (int i = 0; i < imageHolder.title.Length; i++)
         {
             for (int j = 0; j < imageHolder.arrays[i].objects.Length;j++)
@@ -63,11 +65,13 @@ public GameObject[,] drawArray = new GameObject[100, 100];
         }
 
   
+
     }
 
     // Update is called once per frame
     void Update()
     {
+        
         imageArray[ImageOrder.imageSet,imageNumber].SetActive(enable);
         for (int i = 0; i < imageHolder.title.Length; i++)
         {
@@ -83,11 +87,10 @@ public GameObject[,] drawArray = new GameObject[100, 100];
                 }
             }
         }
+
         
-        
-        
-      
-    }
+    
+         }
 
     private void InstantiatePrefabImages()
     {
@@ -102,6 +105,8 @@ public GameObject[,] drawArray = new GameObject[100, 100];
                     Quaternion.identity) as GameObject;
                 newImage.transform.SetParent(shape.transform);
                 newImage.transform.localScale= new Vector3(4,4,1);
+                newImage.AddComponent<SaveManager>();
+                
                 imageArray[i, j] = newImage;
                 newImage.SetActive(false);
              
@@ -158,6 +163,7 @@ public GameObject[,] drawArray = new GameObject[100, 100];
     public void Album()
     {
        
+        imageArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveColor();
      Debug.Log("se intampla ceva");
      for (int i = 0; i < imageHolder.title.Length; i++)
      {
@@ -169,8 +175,11 @@ public GameObject[,] drawArray = new GameObject[100, 100];
 
          enable = false;
      }
+
      
+
         SceneManager.LoadScene("AlbumTestr");
+        
         
     }
 }

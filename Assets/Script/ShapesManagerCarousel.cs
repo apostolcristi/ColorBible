@@ -7,11 +7,14 @@ using UnityEngine.UI;
 public class ShapesManagerCarousel : MonoBehaviour
 {
     
+    public static ShapesManagerCarousel shapesManagerCarousel;
     public GameObject Shapes;
     public ImageHolder imageHolder;
     public GameObject groupImages;
     public TextMeshProUGUI nameTitle;
     public GameObject nextButton, previousButton;
+    
+    public GameObject Security;
     
     private int imageCounter=0;
     private GameObject[] groupArray = new GameObject[100];
@@ -25,7 +28,9 @@ public class ShapesManagerCarousel : MonoBehaviour
     
     void Start()
     {
+
        InstantiateShapes();
+       
 
        for (int i = 0; i < groupArray.Length; i++)
        {
@@ -80,6 +85,12 @@ public class ShapesManagerCarousel : MonoBehaviour
                 newShapes.transform.parent = newGroup.transform;
                 
                 newShapes.transform.localScale = new Vector3(1,1,1);
+
+                GameObject security = Instantiate(Security, newShapes.transform.position, Quaternion.identity);
+                security.transform.SetParent(newShapes.transform);   
+                security.transform.localScale= new Vector3(1,1,1);
+                security.GetComponent<Canvas>().overrideSorting = true; 
+                security.SetActive(false);
                 
                
                 
@@ -92,6 +103,7 @@ public class ShapesManagerCarousel : MonoBehaviour
                 if (j % 2 == 0)
                 {
                     newShapes.transform.localPosition= new Vector3(-250,0,0);
+                    security.transform.localPosition=new Vector3(243,0,0);
                     newShapes.name = "Shape-" + (titleCounter+1);
                     copyTitle.text = imageHolder.title[titleCounter];
                 }
@@ -99,6 +111,7 @@ public class ShapesManagerCarousel : MonoBehaviour
                 if(j%2!=0)
                 {
                     newShapes.transform.localPosition= new Vector3(250,0,0);
+                    security.transform.localPosition=new Vector3(-243,0,0);
                     if (titleCounter < imageHolder.title.Length)
                     {
                         newShapes.name = "Shape-" + (titleCounter+1);
@@ -112,13 +125,16 @@ public class ShapesManagerCarousel : MonoBehaviour
                         break;
                     }
                 }
+                
 
                 
                     GameObject newImages = Instantiate(imageHolder.arrays[imageCounter++].objects[0],
                         newShapes.transform.GetChild(0).transform.position, Quaternion.identity);
 
-                    newImages.transform.parent = newShapes.transform.GetChild(1).transform;
+                    newImages.transform.parent = newShapes.transform.GetChild(0).transform;
                     newImages.transform.localScale = new Vector3(1.75f,1.75f,1.75f);
+
+                    newImages.GetComponent<Image>().raycastTarget = false;
 
                     ShapespArray[titleCounter++] = newShapes;
 
@@ -128,7 +144,8 @@ public class ShapesManagerCarousel : MonoBehaviour
         }
         
     }
-   
+
+    
 
     public void NextSets()
     {

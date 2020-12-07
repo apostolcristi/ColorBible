@@ -31,11 +31,12 @@ namespace IndieStudio.DrawingAndColoring.Logic
 		/// The target color
 		/// </summary>
 		[HideInInspector]
-		public Color targetColor = Color.white;
+		public Color targetColor=Color.white;
 
 		// Use this for initialization
 		void Start () {
 
+			
 			if (spriteRenderer == null) {
 				spriteRenderer = GetComponent<SpriteRenderer>();
 			}
@@ -44,16 +45,10 @@ namespace IndieStudio.DrawingAndColoring.Logic
 			initialSortingOrder = GetComponent<SpriteRenderer> ().sortingOrder;
 
 			//Apply the previous color on part
-			object previousColor = Area.shapesDrawingContents [ShapesManager.instance.lastSelectedShape].shapePartsColors [name];
-			if(previousColor!=null)
-				spriteRenderer.color = (Color)previousColor;
 
-			targetColor = (Color)previousColor;
 
 			//Apply the previous sorting order on part
-			object previousSortingOrder = Area.shapesDrawingContents [ShapesManager.instance.lastSelectedShape].shapePartsSortingOrder [name];
-			if(previousSortingOrder!=null)
-				spriteRenderer.sortingOrder = (int)previousSortingOrder;
+	
 		}
 
 		void Update(){
@@ -77,7 +72,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 		/// <summary>
 		/// Apply the initial sorting order.
 		/// </summary>
-		public void ApplyInitialSortingOrder(){
+		public void ApplyInitialSortingOrder(){ 
 			GetComponent<SpriteRenderer> ().sortingOrder = initialSortingOrder;
 		}
 
