@@ -25,11 +25,7 @@ public class ImageOrder : MonoBehaviour
       
            // InitializeSet();
         Initialize();
-        RectTransform parent = gameObject.GetComponent<RectTransform>();
-        GridLayoutGroup grid = gameObject.GetComponent<GridLayoutGroup>();
-        float Lines =Mathf.Ceil(imageHolder.arrays[imageSet].objects.Length / 4.0f);
-        
-      // grid.cellSize = new Vector2(parent.rect.width/4,parent.rect.height/Lines);
+    
     }
 
 
@@ -105,9 +101,10 @@ public class ImageOrder : MonoBehaviour
       {
           GameObject drawChildParent = Instantiate(drawChild,transform.position,Quaternion.identity);
           drawChildParent.transform.SetParent(gameObject.transform);
+          drawChildParent.transform.localScale=new Vector3(1.5f, 1.5f, 1);
           GameObject newImage = Instantiate(imageHolder.arrays[imageSet].objects[i], drawChildParent.transform.GetChild(0).position, Quaternion.identity);
           newImage.transform.SetParent(drawChildParent.transform);
-          newImage.transform.localScale=new Vector3(2.5f, 2.5f, 1);
+          newImage.transform.localScale=new Vector3(1f, 1f, 1);
           newImage.GetComponent<Button> ().onClick.AddListener (() =>newImage.GetComponent<ImageID>().ImageActive() );
           newImage.name += "-" + i;
       }

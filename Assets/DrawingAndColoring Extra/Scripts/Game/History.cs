@@ -179,7 +179,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 		/// </summary>
 		public void CheckUnDoRedoButtonsStatus(){
 
-			//Setting up references
+		/*	//Setting up references
 			if (undoBtn == null) {
 				undoBtn = GameObject.Find("UndoButton").GetComponent<Button>();
 			}
@@ -209,6 +209,8 @@ namespace IndieStudio.DrawingAndColoring.Logic
 					EnableButton(redoBtn);
 				}
 			}
+			*/
+		
 		}
 
 		/// <summary>

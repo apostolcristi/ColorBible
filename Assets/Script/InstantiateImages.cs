@@ -21,8 +21,8 @@ public class InstantiateImages : MonoBehaviour
 
 
 public static GameObject[ , ] imageArray = new GameObject[100,100];
-[HideInInspector]
-public GameObject[,] drawArray = new GameObject[100, 100];
+
+public static GameObject[,] drawArray = new GameObject[100, 100];
 
 
     private void Awake()
@@ -137,6 +137,7 @@ public GameObject[,] drawArray = new GameObject[100, 100];
              drawingContent.transform.position = Vector3.zero;
              drawingContent.AddComponent<RectTransform>().anchoredPosition3D = Vector3.zero;
              drawingContent.transform.localScale = Vector3.one;
+             drawingContent.AddComponent<SaveManager>();
              drawingContent.SetActive(false);
 
              Transform shapeParts = parentContent.transform.Find("Parts");
@@ -164,6 +165,9 @@ public GameObject[,] drawArray = new GameObject[100, 100];
     {
        
         imageArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveColor();
+        drawArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveLine();
+        drawArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveStamp();
+
      Debug.Log("se intampla ceva");
      for (int i = 0; i < imageHolder.title.Length; i++)
      {
@@ -178,8 +182,10 @@ public GameObject[,] drawArray = new GameObject[100, 100];
 
      
 
-        SceneManager.LoadScene("AlbumTestr");
+        SceneManager.LoadScene("ImageSet1");
         
         
     }
+
+   
 }

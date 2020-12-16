@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Purchasing;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
@@ -14,8 +15,8 @@ public class SetID : MonoBehaviour
     public PurchaseButton RemoveLock;
     public PurchaseButton RemoveLock1;
     public PurchaseButton RemoveLock2;
-    
-    private GameObject NextButton,PreviousButton;
+
+    private AudioSource audioSource;
     private GameObject NoButton;
     private GameObject YesButton;
     private GameObject MainScreen;
@@ -25,8 +26,7 @@ public class SetID : MonoBehaviour
     
     void Start()
     {
-        NextButton = GameObject.FindGameObjectWithTag("ChangeButtons");
-        PreviousButton = GameObject.FindGameObjectWithTag("ChangeButtons");
+       audioSource = gameObject.GetComponent<AudioSource>();
         
         MainScreen = GameObject.FindGameObjectWithTag("MainScreen");
         if (ID == -1)
@@ -38,7 +38,10 @@ public class SetID : MonoBehaviour
 
         if (ID == 0)
         {
-            gameObject.GetComponent<Button>().onClick.AddListener((() => Imageset()));
+            gameObject.GetComponent<Button>().onClick.AddListener(() => Imageset());
+           // gameObject.GetComponent<Button>().onClick.AddListener(() => AudioPlay());
+            Locked.SetActive(false);
+    
         }
 
         if (ID >= 1)
@@ -101,35 +104,25 @@ public class SetID : MonoBehaviour
         if (gameObject.transform.GetChild(1).gameObject.activeInHierarchy == true)
         {
             MainScreen.SetActive(false);
-            NextButton.GetComponent<Image>().raycastTarget = false;
-            PreviousButton.GetComponent<Image>().raycastTarget = false;
+    
         }
         else
         {
             MainScreen.SetActive(true);
-            NextButton.GetComponent<Image>().raycastTarget = true;
-            PreviousButton.GetComponent<Image>().raycastTarget = true;
+
+    
         }
     }
 
     public void AreYouSure()
     {
-        
-        NextButton = GameObject.FindGameObjectWithTag("ChangeButtons");
-        PreviousButton = GameObject.FindGameObjectWithTag("ChangeButtons");
-
-  
-      
+ 
         gameObject.transform.GetChild(1).gameObject.SetActive(true);
     }
 
     public void No()
     {
-        NextButton = GameObject.FindGameObjectWithTag("ChangeButtons");
-        PreviousButton = GameObject.FindGameObjectWithTag("ChangeButtons");
 
-     
-        
         gameObject.transform.GetChild(1).gameObject.SetActive(false);
     }
     
@@ -137,5 +130,11 @@ public class SetID : MonoBehaviour
     {
         ImageOrder.imageSet = ID;
         SceneManager.LoadScene("ImageSet1");
+    }
+
+    public void AudioPlay()
+    {
+        audioSource.Play();
+        Debug.Log("ok");
     }
 }

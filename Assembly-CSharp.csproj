@@ -50,8 +50,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\StampData.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ShapesTable1.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\DrawCanvas.cs" />
+     <Compile Include="Assets\Script\DontDestroySFX.cs" />
      <Compile Include="Assets\Script\Scenes.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\DrawingContents.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\EscapeEvent.cs" />
@@ -64,11 +66,14 @@
      <Compile Include="Assets\Script\SetID.cs" />
      <Compile Include="Assets\Script\ShapesManagerCarousel.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\GameManager.cs" />
+     <Compile Include="Assets\Script\FlexibleGridLayout.cs" />
+     <Compile Include="Assets\Script\Security.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\Links.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\AdMob.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ThicknessSize.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ToolContent.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\WebPrint.cs" />
+     <Compile Include="Assets\Script\LineData.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\WorldSpaceRender.cs" />
      <Compile Include="Assets\Script\RestorePurchases.cs" />
      <Compile Include="Assets\Script\BannerAd.cs" />
@@ -89,6 +94,7 @@
      <Compile Include="Assets\Script\DynamicButton.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Area.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\PaintLine.cs" />
+     <Compile Include="Assets\Script\StartMainGame.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\AdPackage.cs" />
      <Compile Include="Assets\Script\ShapeCanvasLoad.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\BezierPath.cs" />
@@ -101,9 +107,9 @@
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ShapesManager1.cs" />
      <Compile Include="Assets\Script\FlexibleGrid.cs" />
      <Compile Include="Assets\Script\OnButton.cs" />
+     <Compile Include="Assets\Script\DontDestroy.cs" />
      <Compile Include="Assets\Script\ImageOrder.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Pointer.cs" />
-     <Compile Include="Assets\Script\NewGameManager.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\CursorZoomCamera.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Logo.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\Colors.cs" />
@@ -116,9 +122,9 @@
      <Compile Include="Assets\Script\Toast.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Tool.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\ShapePart.cs" />
+     <Compile Include="Assets\Script\SFXSound.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\DirtyUtil.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\UIEvents.cs" />
-     <Compile Include="Assets\Script\StartMainGame.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\DrawingAndColoring Extra\Scenes\Landscape\ReadMe.txt" />

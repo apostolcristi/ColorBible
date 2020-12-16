@@ -303,7 +303,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 			
 			//Set the parent of line
 			//line.transform.SetParent(Area.shapesDrawingContents[ShapesManager.instance.lastSelectedShape].transform);
-			line.transform.SetParent(InstantiateImages.instance.drawArray[ImageOrder.imageSet,InstantiateImages.imageNumber].transform);
+			line.transform.SetParent(InstantiateImages.drawArray[ImageOrder.imageSet,InstantiateImages.imageNumber].transform);
 			
 			//Set the name of the line
 			line.name = "Line";
@@ -388,7 +388,8 @@ namespace IndieStudio.DrawingAndColoring.Logic
 
 			//Release current line
 			currentLine = null;
-
+			Mesh mesh = new Mesh();
+//			currentLine.gameObject.GetComponent<LineRenderer>().BakeMesh(mesh, false);
 			//Disable Cursor Zoom Output
 			CursorZoomOutput.enabled = false;
 		}
@@ -428,7 +429,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 			stamp.name = "Stamp";
 			
 			//Set the parent of stamp
-			stamp.transform.SetParent(Area.shapesDrawingContents[ShapesManager.instance.lastSelectedShape].transform);
+			stamp.transform.SetParent(InstantiateImages.drawArray[ImageOrder.imageSet,InstantiateImages.imageNumber].transform);
 			
 			//Set the rotation of the stamp
 			stamp.transform.rotation = Quaternion.Euler(new Vector3(0,0,Random.Range(-15,15)));

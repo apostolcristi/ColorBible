@@ -113,15 +113,18 @@
         </e>
         <e p="Script" t="Include">
           <e p="BannerAd.cs" t="Include" />
+          <e p="DontDestroy.cs" t="Include" />
+          <e p="DontDestroySFX.cs" t="Include" />
           <e p="DynamicButton.cs" t="Include" />
           <e p="FlexibleGrid.cs" t="Include" />
+          <e p="FlexibleGridLayout.cs" t="Include" />
           <e p="GameData.cs" t="Include" />
           <e p="IAPManager.cs" t="Include" />
           <e p="ImageHolder.cs" t="Include" />
           <e p="ImageID.cs" t="Include" />
           <e p="ImageOrder.cs" t="Include" />
           <e p="InstantiateImages.cs" t="Include" />
-          <e p="NewGameManager.cs" t="Include" />
+          <e p="LineData.cs" t="Include" />
           <e p="OnButton.cs" t="Include" />
           <e p="PurchaseButton.cs" t="Include" />
           <e p="RestorePurchases.cs" t="Include" />
@@ -129,9 +132,12 @@
           <e p="SaveSystem.cs" t="Include" />
           <e p="Scenes.cs" t="Include" />
           <e p="ScrollSlider1.cs" t="Include" />
+          <e p="Security.cs" t="Include" />
           <e p="SetID.cs" t="Include" />
+          <e p="SFXSound.cs" t="Include" />
           <e p="ShapeCanvasLoad.cs" t="Include" />
           <e p="ShapesManagerCarousel.cs" t="Include" />
+          <e p="StampData.cs" t="Include" />
           <e p="StartMainGame.cs" t="Include" />
           <e p="Toast.cs" t="Include" />
         </e>
