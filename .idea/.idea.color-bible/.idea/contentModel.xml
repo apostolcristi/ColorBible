@@ -137,6 +137,7 @@
           <e p="SFXSound.cs" t="Include" />
           <e p="ShapeCanvasLoad.cs" t="Include" />
           <e p="ShapesManagerCarousel.cs" t="Include" />
+          <e p="SplashScreen.cs" t="Include" />
           <e p="StampData.cs" t="Include" />
           <e p="StartMainGame.cs" t="Include" />
           <e p="Toast.cs" t="Include" />

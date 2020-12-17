@@ -7,6 +7,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
 using Button = UnityEngine.UI.Button;
+using Image = UnityEngine.UI.Image;
 
 public class ImageOrder : MonoBehaviour
 {
@@ -21,7 +22,7 @@ public class ImageOrder : MonoBehaviour
     public static int imageSet = 0;
     void Start()
     {
-        title.text = "Image set " + (imageSet + 1);
+        title.text = "Set de imagine " + (imageSet + 1);
       
            // InitializeSet();
         Initialize();
@@ -103,9 +104,11 @@ public class ImageOrder : MonoBehaviour
           drawChildParent.transform.SetParent(gameObject.transform);
           drawChildParent.transform.localScale=new Vector3(1.5f, 1.5f, 1);
           GameObject newImage = Instantiate(imageHolder.arrays[imageSet].objects[i], drawChildParent.transform.GetChild(0).position, Quaternion.identity);
+          drawChildParent.transform.GetChild(3).gameObject.GetComponent<TextMeshProUGUI>().text = newImage.GetComponent<Image>().sprite.name;
           newImage.transform.SetParent(drawChildParent.transform);
           newImage.transform.localScale=new Vector3(1f, 1f, 1);
-          newImage.GetComponent<Button> ().onClick.AddListener (() =>newImage.GetComponent<ImageID>().ImageActive() );
+          newImage.GetComponent<Button>().onClick.AddListener(()=>newImage.GetComponent<ImageID>().ImageActive());
+          newImage.GetComponent<Button>().onClick.AddListener(()=>GameObject.Find("SFXSound").GetComponent<DontDestroySFX>().ButtonPress());
           newImage.name += "-" + i;
       }
   }

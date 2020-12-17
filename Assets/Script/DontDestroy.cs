@@ -29,7 +29,7 @@ public class DontDestroy : MonoBehaviour
 
     private void Update()
     {
-            musicOn = PlayerPrefs.GetInt("musicOn")==1?true:false;
+        musicOn = PlayerPrefs.GetInt("musicOn")==1 ? false : true;
         if (musicOn)
         {
             gameObject.GetComponent<AudioSource>().mute = false;

@@ -23,10 +23,15 @@ public class ImageID : MonoBehaviour
         InstantiateImages.first = true;
        
         InstantiateImages.imageNumber = ID;
-      
-        SceneManager.LoadScene("MainGame");
-       
+
+        StartCoroutine(Load());
+
     }
 
-   
+    IEnumerator Load()
+    {
+        yield return new WaitForSeconds(.1f);
+        SceneManager.LoadScene("MainGame");
+    }
+
 }

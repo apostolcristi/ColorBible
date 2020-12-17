@@ -17,7 +17,7 @@ namespace IndieStudio.DrawingAndColoring.Logic
 	public class UIEvents : MonoBehaviour
 	{
 		public void ResetZoom(){
-			CameraZoom.ResetZoom ();
+		//	CameraZoom.ResetZoom ();
 		}
 
 		public void PointerButtonEvent(Pointer pointer){

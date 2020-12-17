@@ -26,6 +26,15 @@ public class Scenes : MonoBehaviour
         SceneManager.LoadScene("AlbumTestr");
     }
 
+    public void GameToSet()
+    {
+        StartCoroutine(Load());
+    }
+    IEnumerator Load()
+    {
+        yield return new WaitForSeconds(.1f);
+        SceneManager.LoadScene("ImageSet1");
+    }
   
 
     public void PurchaseSet()

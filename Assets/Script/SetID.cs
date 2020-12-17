@@ -38,6 +38,7 @@ public class SetID : MonoBehaviour
 
         if (ID == 0)
         {
+            gameObject.GetComponent<Button>().onClick.AddListener(() => gameObject.GetComponent<DontDestroySFX>().ButtonPress());
             gameObject.GetComponent<Button>().onClick.AddListener(() => Imageset());
            // gameObject.GetComponent<Button>().onClick.AddListener(() => AudioPlay());
             Locked.SetActive(false);
@@ -87,7 +88,7 @@ public class SetID : MonoBehaviour
     {
         if (ID == 1 && IAPManager.isRemoved == true)
         {
-            gameObject.transform.GetChild(1).gameObject.SetActive(false);
+            gameObject.transform.GetChild(0).GetChild(0).gameObject.SetActive(false);
             
         }
         if (ID == 2 && IAPManager.isRemoved1 == true)
@@ -129,6 +130,12 @@ public class SetID : MonoBehaviour
     public void Imageset()
     {
         ImageOrder.imageSet = ID;
+        StartCoroutine(Load());
+    }
+
+    IEnumerator Load()
+    {
+        yield return new WaitForSeconds(.1f);
         SceneManager.LoadScene("ImageSet1");
     }
 

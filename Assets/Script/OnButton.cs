@@ -20,8 +20,9 @@ public class OnButton : MonoBehaviour
     {
         musicColor = onOffButtons[0].GetComponent<Image>().color;
         soundEffectsOnColor = onOffButtons[1].GetComponent<Image>().color;
-        musicOn = PlayerPrefs.GetInt("musicOn")==1?true:false;
-        soundEffectsOn = PlayerPrefs.GetInt("soundEffectsOn") == 1 ? true : false;
+        musicOn = PlayerPrefs.GetInt("musicOn")==1 ? false : true;
+        soundEffectsOn = PlayerPrefs.GetInt("soundEffectsOn") == 1 ? false : true;
+      
         
     }
 
@@ -54,12 +55,12 @@ public class OnButton : MonoBehaviour
     public void Music()
     {
         musicOn = !musicOn;
-        PlayerPrefs.SetInt("musicOn", musicOn?1:0);
+        PlayerPrefs.SetInt("musicOn", musicOn?0:1);
     }
 
     public void SoundEffects()
     {
         soundEffectsOn = !soundEffectsOn;
-        PlayerPrefs.SetInt("soundEffectsOn", soundEffectsOn?1:0);
+        PlayerPrefs.SetInt("soundEffectsOn", soundEffectsOn?0:1);
     }
 }
