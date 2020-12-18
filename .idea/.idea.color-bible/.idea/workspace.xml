@@ -20,11 +20,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1771070e-d22f-4ca9-bf27-9f8e07149101" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Prefabs/Characters/Bear.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Prefabs/Characters/Bear.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 10.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 10.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 11.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 11.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 12.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 12.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 13.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 13.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 14.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 14.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 15.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 15.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 16.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 16.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 17.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 17.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 18.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 18.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 19.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 19.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 7.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 7.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 9.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMAGES/ImgSet1/Set 1 Img 9.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuckiestGuyFont/LuckiestGuy SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LuckiestGuyFont/LuckiestGuy SDF.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartingScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StartingScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +70,7 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.1.1/Runtime/managed/Purchasing/IStoreController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SaveSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/StartMainGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/HyperLink.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Toast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ImageHolder.cs" root0="FORCE_HIGHLIGHTING" />
@@ -193,6 +221,7 @@
       <workItem from="1608150654959" duration="493000" />
       <workItem from="1608226182595" duration="10914000" />
       <workItem from="1608311377985" duration="454000" />
+      <workItem from="1608312609904" duration="631000" />
     </task>
     <servers />
   </component>
