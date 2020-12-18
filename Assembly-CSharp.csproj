@@ -110,6 +110,7 @@
      <Compile Include="Assets\Script\DontDestroy.cs" />
      <Compile Include="Assets\Script\ImageOrder.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Pointer.cs" />
+     <Compile Include="Assets\Script\SplashScreen.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\CursorZoomCamera.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\Logo.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\Colors.cs" />
@@ -125,7 +126,6 @@
      <Compile Include="Assets\Script\SFXSound.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\DirtyUtil.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\UIEvents.cs" />
-     <Compile Include="Assets\Script\SplashScreen.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\DrawingAndColoring Extra\Scenes\Landscape\ReadMe.txt" />
