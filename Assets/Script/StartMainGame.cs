@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using IndieStudio.DrawingAndColoring.Logic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class StartMainGame : MonoBehaviour
 {
@@ -26,11 +27,21 @@ public class StartMainGame : MonoBehaviour
 
     public GameObject paintLine;
     // Start is called before the first frame update
+
+    private void Awake()
+    {
+        InstantiateImages.imageArray[ImageOrder.imageSet, InstantiateImages.imageNumber].GetComponent<Image>()
+            .raycastTarget = false;
+    }
+
+   
+
     void Start()
     {
         InstantiateImages.imageArray[ImageOrder.imageSet,InstantiateImages.imageNumber].GetComponent<SaveManager>().LoadColor();
-         
-            
+        
+
+
     }
 
     private void Update()

@@ -71,6 +71,7 @@ public class IAPManager : MonoBehaviour, IStoreListener
         if (String.Equals(args.purchasedProduct.definition.id, removeLock, StringComparison.Ordinal))
         {
             isRemoved = true;
+            SceneManager.LoadScene("AlbumTestr");
             Debug.Log("Cumparat set2");
             PlayerPrefs.SetInt("Removed", isRemoved ? 1 : 0);
 

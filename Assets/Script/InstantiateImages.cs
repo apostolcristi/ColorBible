@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using IndieStudio.DrawingAndColoring.Logic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class InstantiateImages : MonoBehaviour
 {
@@ -73,6 +74,7 @@ public static GameObject[,] drawArray = new GameObject[100, 100];
     {
         
         imageArray[ImageOrder.imageSet,imageNumber].SetActive(enable);
+        imageArray[ImageOrder.imageSet, imageNumber].GetComponent<Image>().raycastTarget = false;
         for (int i = 0; i < imageHolder.title.Length; i++)
         {
             for (int j = 0; j < imageHolder.arrays[i].objects.Length; j++)
@@ -104,12 +106,12 @@ public static GameObject[,] drawArray = new GameObject[100, 100];
                 GameObject newImage = Instantiate(imageHolder.arrays[i].objects[j], imagesParent.transform.position,
                     Quaternion.identity) as GameObject;
                 newImage.transform.SetParent(shape.transform);
-                newImage.transform.localScale= new Vector3(4,4,1);
+                newImage.transform.localScale= new Vector3(6.1f,6.1f,1);
+                newImage.transform.localPosition = newImage.transform.localPosition + new Vector3(40f, -9f, 0f);
                 newImage.AddComponent<SaveManager>();
                 
                 imageArray[i, j] = newImage;
                 newImage.SetActive(false);
-             
             }
             
         }

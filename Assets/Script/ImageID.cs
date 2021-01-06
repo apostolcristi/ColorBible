@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class ImageID : MonoBehaviour
 {
@@ -31,6 +33,9 @@ public class ImageID : MonoBehaviour
     IEnumerator Load()
     {
         yield return new WaitForSeconds(.1f);
+
+
+        
         SceneManager.LoadScene("MainGame");
     }
 
