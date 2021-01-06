@@ -22,7 +22,7 @@ public class ImageOrder : MonoBehaviour
     public static int imageSet = 0;
     void Start()
     {
-        title.text = "Set de imagine " + (imageSet + 1);
+        title.text = "VIata lui Isus - partea " + (imageSet + 1);
       
            // InitializeSet();
         Initialize();
