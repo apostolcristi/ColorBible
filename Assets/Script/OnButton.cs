@@ -13,15 +13,15 @@ public class OnButton : MonoBehaviour
     private bool musicOn=true;
     private bool soundEffectsOn=true;
 
-    private Color musicColor;
-    private Color soundEffectsOnColor;
+    public Sprite on;
+    public Sprite off;
     
     void Start()
     {
-        musicColor = onOffButtons[0].GetComponent<Image>().color;
-        soundEffectsOnColor = onOffButtons[1].GetComponent<Image>().color;
+        
         musicOn = PlayerPrefs.GetInt("musicOn")==1 ? false : true;
         soundEffectsOn = PlayerPrefs.GetInt("soundEffectsOn") == 1 ? false : true;
+        
       
         
     }
@@ -31,24 +31,20 @@ public class OnButton : MonoBehaviour
     {
         if (musicOn)
         {
-            onOffButtons[0].transform.rotation = new Quaternion(0,0,0,0);
-            onOffButtons[0].GetComponent<Image>().color = Color.green;
+            onOffButtons[0].GetComponent<Image>().sprite = on;
         }
         else
         {
-            onOffButtons[0].transform.rotation = new Quaternion(0,0,180,0);
-            onOffButtons[0].GetComponent<Image>().color = Color.white;
+            onOffButtons[0].GetComponent<Image>().sprite = off;
         }
 
         if (soundEffectsOn)
         {
-            onOffButtons[1].transform.rotation = new Quaternion(0,0,0,0);
-            onOffButtons[1].GetComponent<Image>().color = Color.green;
+            onOffButtons[1].GetComponent<Image>().sprite = on;
         }
         else
         {
-            onOffButtons[1].transform.rotation = new Quaternion(0f,0f,180f,0f);
-            onOffButtons[1].GetComponent<Image>().color = Color.white;
+            onOffButtons[1].GetComponent<Image>().sprite = off;
         }
     }
 

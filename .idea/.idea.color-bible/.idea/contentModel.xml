@@ -119,6 +119,7 @@
           <e p="FlexibleGrid.cs" t="Include" />
           <e p="FlexibleGridLayout.cs" t="Include" />
           <e p="GameData.cs" t="Include" />
+          <e p="GoBack.cs" t="Include" />
           <e p="HyperLink.cs" t="Include" />
           <e p="IAPManager.cs" t="Include" />
           <e p="ImageHolder.cs" t="Include" />

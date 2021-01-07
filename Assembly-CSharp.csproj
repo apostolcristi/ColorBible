@@ -131,6 +131,7 @@
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Game\DrawingContents.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\AdMob.cs" />
      <Compile Include="Assets\DrawingAndColoring Extra\Scripts\Utility\AdsManager.cs" />
+     <Compile Include="Assets\Script\GoBack.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\DrawingAndColoring Extra\Scenes\Landscape\ReadMe.txt" />
