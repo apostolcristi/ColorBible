@@ -70,7 +70,7 @@ public class Security : MonoBehaviour
             }
             operation.text = "-";
         }
-        Debug.Log(sumOrSubstrac);
+        
         firstNumText.text = firstNum.ToString();
         secNumText.text = secNum.ToString();
         yes.SetActive(false);

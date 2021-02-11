@@ -20,37 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1771070e-d22f-4ca9-bf27-9f8e07149101" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Obiecte/crownAsset_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Obiecte/crownAsset_13.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Obiecte/off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Obiecte/off.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Obiecte/on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Obiecte/on.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/GoBack.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/GoBack.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.color-bible/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Prefabs/Characters/Bear.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Prefabs/Characters/Bear.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AlbumTestr.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AlbumTestr.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ImageSet1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ImageSet1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainGame.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartingScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StartingScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/HyperLink.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/HyperLink.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/OnButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/OnButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/DontDestroySFX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/DontDestroySFX.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ImageID.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/ImageID.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SaveManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SaveManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SaveSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SaveSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SaveSystem.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SaveSystem.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Scenes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Scenes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Security.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Security.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/StartMainGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/StartMainGame.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ff.aab" beforeDir="false" afterPath="$PROJECT_DIR$/ff.aab" afterDir="false" />
     </list>
@@ -62,12 +61,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.1.1/Runtime/managed/Purchasing/Extension/IStore.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ResetScreen.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SplashScreen.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/GoBack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.1.1/Runtime/managed/Purchasing/PurchasingManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Security.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Toast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ShapeCanvasLoad.cs" root0="FORCE_HIGHLIGHTING" />
@@ -86,15 +94,20 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Script/LongPress.cs" />
-      <option value="$PROJECT_DIR$/Assets/Script/ImageID.cs" />
-      <option value="$PROJECT_DIR$/Assets/Script/StartMainGame.cs" />
-      <option value="$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/IAPManager.cs" />
       <option value="$PROJECT_DIR$/Assets/DrawingAndColoring Extra/Scripts/Game/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/ImageOrder.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/OnButton.cs" />
-      <option value="$PROJECT_DIR$/Assets/Script/HyperLink.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/GoBack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/HyperLink.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/SaveSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/SaveManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/ImageID.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/DontDestroySFX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/Security.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/Scenes.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/InstantiateImages.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/StartMainGame.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1kKl62JgEecArOZsip1WBHRCrHc" />
@@ -199,6 +212,13 @@
       <workItem from="1609954556416" duration="976000" />
       <workItem from="1609968446432" duration="865000" />
       <workItem from="1610021214453" duration="8849000" />
+      <workItem from="1610032431326" duration="744000" />
+      <workItem from="1610386814417" duration="2445000" />
+      <workItem from="1610392732261" duration="4665000" />
+      <workItem from="1610459797261" duration="14735000" />
+      <workItem from="1610482466483" duration="856000" />
+      <workItem from="1610544167408" duration="2736000" />
+      <workItem from="1612901800479" duration="7299000" />
     </task>
     <servers />
   </component>

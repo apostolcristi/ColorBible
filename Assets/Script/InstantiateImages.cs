@@ -12,13 +12,14 @@ public class InstantiateImages : MonoBehaviour
     public ImageHolder imageHolder;
     public GameObject imagesParent;
     public GameObject drawingParent;
-
+    private static bool isQuitting = true;
+    private static bool isActive = false;
 
     private string[,] firstColorImage = new string[100,100];
     public static bool first = true;
     public static int imageNumber=0;
     public static bool enable = true;
-
+    public SaveManager SM;
 
 
 public static GameObject[ , ] imageArray = new GameObject[100,100];
@@ -108,7 +109,7 @@ public static GameObject[,] drawArray = new GameObject[100, 100];
                 newImage.transform.SetParent(shape.transform);
                 newImage.transform.localScale= new Vector3(6.1f,6.1f,1);
                 newImage.transform.localPosition = newImage.transform.localPosition + new Vector3(40f, -9f, 0f);
-                newImage.AddComponent<SaveManager>();
+                //newImage.AddComponent<SaveManager>();
                 
                 imageArray[i, j] = newImage;
                 newImage.SetActive(false);
@@ -139,7 +140,7 @@ public static GameObject[,] drawArray = new GameObject[100, 100];
              drawingContent.transform.position = Vector3.zero;
              drawingContent.AddComponent<RectTransform>().anchoredPosition3D = Vector3.zero;
              drawingContent.transform.localScale = Vector3.one;
-             drawingContent.AddComponent<SaveManager>();
+             //drawingContent.AddComponent<SaveManager>();
              drawingContent.SetActive(false);
 
              Transform shapeParts = parentContent.transform.Find("Parts");
@@ -166,11 +167,14 @@ public static GameObject[,] drawArray = new GameObject[100, 100];
     public void Album()
     {
        
-        imageArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveColor();
-        drawArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveLine();
-        drawArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveStamp();
+        // imageArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveColor();
+        // drawArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveLine();
+        // drawArray[ImageOrder.imageSet,imageNumber].GetComponent<SaveManager>().SaveStamp();
 
-     Debug.Log("se intampla ceva");
+        
+       SM.SaveLine();
+       SM.SaveStamp();
+       Debug.Log("se intampla ceva");
      for (int i = 0; i < imageHolder.title.Length; i++)
      {
          for (int j = 0; j < imageHolder.arrays[i].objects.Length;j++)
@@ -188,6 +192,36 @@ public static GameObject[,] drawArray = new GameObject[100, 100];
         
         
     }
+void OnApplicationQuit(){
+    SM.SaveLine();
+    SM.SaveStamp();
+}
 
-   
+//TODO:de verificat behaviourul la astea doua functii
+    private void OnApplicationPause(bool pauseStatus)
+    {
+        if (pauseStatus)
+        {
+            SM.SaveLine();
+            SM.SaveStamp();
+        }
+        else
+        {  
+            SceneManager.LoadScene("MainGame");
+
+        }
+    }
+
+    private void OnApplicationFocus(bool hasFocus)
+    {
+        if (!hasFocus)
+        {
+            SM.SaveStamp();
+            SM.SaveLine();
+        }
+        else
+        {   
+            SceneManager.LoadScene("MainGame");
+        }
+    }
 }

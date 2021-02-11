@@ -31,66 +31,74 @@ public class SaveManager : MonoBehaviour
         
         
     }
-
-    public void SaveColor()
-    {
-        GameObject partsParent = gameObject.transform.GetChild(0).gameObject;
-
-        for (int i = 0; i < partsParent.transform.childCount; i++)
-        {
-            Color currentChild = partsParent.transform.GetChild(i).gameObject.GetComponent<SpriteRenderer>().color;
-            ColorUtility.ToHtmlStringRGB(currentChild);
-
-            colorPart = ImageOrder.imageSet + "-" + InstantiateImages.imageNumber + "-" + i + "-" +
-                        ColorUtility.ToHtmlStringRGB(currentChild);
-
-
-            colorPartArray.Add(colorPart);
-        }
-
-        SaveSystem.SavePart(this, ImageOrder.imageSet, InstantiateImages.imageNumber);
-        colorPartArray.Clear();
-    }
-
-    public void LoadColor()
-    {
-
-        GameObject partsParent = gameObject.transform.GetChild(0).gameObject;
-
-        string[] colorPartHex;
-        for (int i = 0; i < partsParent.transform.childCount; i++)
-        {
-            SpriteRenderer currentChild = partsParent.transform.GetChild(i).gameObject.GetComponent<SpriteRenderer>();
-
-            Color newColor;
-
-            GameData data = SaveSystem.LoadPart(ImageOrder.imageSet, InstantiateImages.imageNumber);
-            colorPart = data.hex[i].ToString();
-
-            colorPartHex = colorPart.Split('-');
-            colorPart = colorPartHex[3];
-            ColorUtility.TryParseHtmlString("#" + colorPart, out newColor);
-            currentChild.GetComponent<ShapePart>().SetColor(newColor);
-
-
-        }
-    }
+    
+    //TODO: when we will have fill corected
+    // public void SaveColor()
+    // {
+    //     GameObject partsParent = gameObject.transform.GetChild(0).gameObject;
+    //
+    //     for (int i = 0; i < partsParent.transform.childCount; i++)
+    //     {
+    //         Color currentChild = partsParent.transform.GetChild(i).gameObject.GetComponent<SpriteRenderer>().color;
+    //         ColorUtility.ToHtmlStringRGB(currentChild);
+    //
+    //         colorPart = ImageOrder.imageSet + "-" + InstantiateImages.imageNumber + "-" + i + "-" +
+    //                     ColorUtility.ToHtmlStringRGB(currentChild);
+    //
+    //
+    //         colorPartArray.Add(colorPart);
+    //     }
+    //
+    //     SaveSystem.SavePart(this, ImageOrder.imageSet, InstantiateImages.imageNumber);
+    //     colorPartArray.Clear();
+    // }
+    //
+    // public void LoadColor()
+    // {
+    //
+    //     GameObject partsParent = gameObject.transform.GetChild(0).gameObject;
+    //
+    //     string[] colorPartHex;
+    //     for (int i = 0; i < partsParent.transform.childCount; i++)
+    //     {
+    //         SpriteRenderer currentChild = partsParent.transform.GetChild(i).gameObject.GetComponent<SpriteRenderer>();
+    //
+    //         Color newColor;
+    //
+    //         GameData data = SaveSystem.LoadPart(ImageOrder.imageSet, InstantiateImages.imageNumber);
+    //         colorPart = data.hex[i].ToString();
+    //
+    //         colorPartHex = colorPart.Split('-');
+    //         colorPart = colorPartHex[3];
+    //         ColorUtility.TryParseHtmlString("#" + colorPart, out newColor);
+    //         currentChild.GetComponent<ShapePart>().SetColor(newColor);
+    //
+    //
+    //     }
+    // }
 
 
 
     public void SaveLine()
     {
-        childrenSize = gameObject.transform.childCount;
+        
 
         lineK = 0;
         int f = 0;
 
+        Transform Area = gameObject.transform.GetChild(0);
+        Transform AreaChildOfChilds = Area.GetChild(ImageOrder.imageSet).GetChild(InstantiateImages.imageNumber);
+        
+        childrenSize = Area.GetChild(ImageOrder.imageSet).GetChild(InstantiateImages.imageNumber).transform.childCount;
+        
+        
+   
         for (int i = 0; i < childrenSize; i++)
         {
-            if (gameObject.transform.GetChild(i).gameObject.name == "Line(Clone)" || gameObject.transform.GetChild(i).gameObject.name =="Line")
-            {
+            if (AreaChildOfChilds.GetChild(i).gameObject.name == "Line(Clone)" || AreaChildOfChilds.GetChild(i).gameObject.name =="Line")
+            {   
                 
-                GameObject lrGet = gameObject.transform.GetChild(i).gameObject;
+                GameObject lrGet = AreaChildOfChilds.GetChild(i).gameObject;
                 int verticesCount = lrGet.gameObject.GetComponent<LineRenderer>().positionCount;
                 int matNum = -1;
                 float ab = lrGet.GetComponent<LineRenderer>().colorGradient.colorKeys[0].color.r;
@@ -114,7 +122,7 @@ public class SaveManager : MonoBehaviour
                 string colorHexLine = ColorUtility.ToHtmlStringRGB(color);
                 Vector3[] newLine = new Vector3[verticesCount];
                 lrGet.GetComponent<LineRenderer>().GetPositions(newLine);
-                Debug.Log(lrGet.GetComponent<LineRenderer>().material.name);
+               
                 if (lrGet.GetComponent<LineRenderer>().material.name == "Normal (Instance)")
                 {
                     matNum = 0;
@@ -204,7 +212,9 @@ public class SaveManager : MonoBehaviour
                 lineArrayY.Clear();
                 ChildArrayX.Clear();
                 ChildArrayY.Clear();
-                Destroy(gameObject.transform.GetChild(i).gameObject);
+                //Debug.Log(lrGet.transform.GetChild(i).gameObject.name);
+                Destroy(AreaChildOfChilds.GetChild(i).gameObject);
+                
 
                 lineK++;
             }
@@ -215,15 +225,18 @@ public class SaveManager : MonoBehaviour
     public void SaveStamp()
     {
         stampK = 0;
-        childrenSize = gameObject.transform.childCount;
+        Transform Area = gameObject.transform.GetChild(0);
+        Transform AreaChildOfChilds = Area.GetChild(ImageOrder.imageSet).GetChild(InstantiateImages.imageNumber);
+        
+        childrenSize = Area.GetChild(ImageOrder.imageSet).GetChild(InstantiateImages.imageNumber).transform.childCount;
         int l = 0;
         
         for (int i = 0; i < childrenSize; i++)
         {
-            if (gameObject.transform.GetChild(i).gameObject.name == "Stamp")
+            if (AreaChildOfChilds.GetChild(i).gameObject.name == "Stamp")
             {
                 
-                GameObject stampGet = gameObject.transform.GetChild(i).gameObject;
+                GameObject stampGet = AreaChildOfChilds.GetChild(i).gameObject;
 
                 int stampNr=-1;
                 string chestie = stampGet.GetComponent<SpriteRenderer>().sprite.name;
@@ -255,7 +268,7 @@ public class SaveManager : MonoBehaviour
                 SaveSystem.SaveStamp(this, ImageOrder.imageSet, InstantiateImages.imageNumber,l);
                 l++;
                 StampArray.Clear();
-                Destroy(gameObject.transform.GetChild(i).gameObject);
+                Destroy(AreaChildOfChilds.GetChild(i).gameObject);
                 stampK++;
             }
     

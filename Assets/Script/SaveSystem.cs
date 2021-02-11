@@ -6,41 +6,42 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 public static class SaveSystem 
 {
-    public static void SavePart(SaveManager saveManager ,int SetNumber,int ImageNumber)
-    {
-        BinaryFormatter formatter = new BinaryFormatter();
- 
-        string path = Application.persistentDataPath + "/" + SetNumber + "." + ImageNumber;
-        
-        FileStream stream =  new FileStream(path,FileMode.Create);
-        GameData data = new GameData(saveManager);
-        
-        formatter.Serialize(stream,data);
-        stream.Close();
-    }
-
-    public static GameData LoadPart(int SetNumber,int ImageNumber)
-    {
-    
-        string path = Application.persistentDataPath + "/" + SetNumber + "." + ImageNumber;
-    
-        if (File.Exists(path))
-        {
-            BinaryFormatter formatter = new BinaryFormatter();
-            FileStream stream =  new FileStream(path,FileMode.Open);
-
-          GameData data = formatter.Deserialize(stream) as GameData; 
-          
-          stream.Close();
-          
-          return data;
-        }
-        else
-        {
-            Debug.Log("Save file not found in "+path);
-            return null;
-        }
-    }
+    //TODO: When we will have partts
+    // public static void SavePart(SaveManager saveManager ,int SetNumber,int ImageNumber)
+    // {
+    //     BinaryFormatter formatter = new BinaryFormatter();
+    //
+    //     string path = Application.persistentDataPath + "/" + SetNumber + "." + ImageNumber;
+    //     
+    //     FileStream stream =  new FileStream(path,FileMode.Create);
+    //     GameData data = new GameData(saveManager);
+    //     
+    //     formatter.Serialize(stream,data);
+    //     stream.Close();
+    // }
+    //
+    // public static GameData LoadPart(int SetNumber,int ImageNumber)
+    // {
+    //
+    //     string path = Application.persistentDataPath + "/" + SetNumber + "." + ImageNumber;
+    //
+    //     if (File.Exists(path))
+    //     {
+    //         BinaryFormatter formatter = new BinaryFormatter();
+    //         FileStream stream =  new FileStream(path,FileMode.Open);
+    //
+    //       GameData data = formatter.Deserialize(stream) as GameData; 
+    //       
+    //       stream.Close();
+    //       
+    //       return data;
+    //     }
+    //     else
+    //     {
+    //         Debug.Log("Save file not found in "+path);
+    //         return null;
+    //     }
+    // }
     
     public static void SaveLine(SaveManager saveManager, int SetNumber,int ImageNumber, int index)
     {

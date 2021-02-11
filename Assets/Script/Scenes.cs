@@ -13,7 +13,7 @@ public class Scenes : MonoBehaviour
 
     private void Start()
     {
-        PurchaseCanvas.SetActive(false);
+//        PurchaseCanvas.SetActive(false);
     }
 
     public void StartingScene()

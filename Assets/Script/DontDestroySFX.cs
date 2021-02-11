@@ -18,7 +18,7 @@ public class DontDestroySFX : MonoBehaviour
 
       if (soundEffectsOn)
       {      gameObject.GetComponent<AudioSource>().Play();
-          Debug.Log("ok");
+        
       
       }
      }

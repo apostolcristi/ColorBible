@@ -9,12 +9,17 @@ public class ImageID : MonoBehaviour
 {
     public int ID = -1;
 
+    
+    
+    
     void Start()
     {
         if (ID == -1)
         {
             string[] token = gameObject.name.Split('-');
-            ID = int.Parse(token[1]);
+            
+            if (token.Length > 1) 
+                ID = int.Parse(token[1]);
        
         } 
     }

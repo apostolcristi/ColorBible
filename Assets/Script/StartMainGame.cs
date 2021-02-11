@@ -26,19 +26,23 @@ public class StartMainGame : MonoBehaviour
     public GameObject redoHolder;
 
     public GameObject paintLine;
+    public GameObject ShapesManager;
     // Start is called before the first frame update
 
     private void Awake()
     {
-        InstantiateImages.imageArray[ImageOrder.imageSet, InstantiateImages.imageNumber].GetComponent<Image>()
-            .raycastTarget = false;
+        
     }
 
    
 
     void Start()
-    {
-        InstantiateImages.imageArray[ImageOrder.imageSet,InstantiateImages.imageNumber].GetComponent<SaveManager>().LoadColor();
+    {InstantiateImages.imageArray[ImageOrder.imageSet, InstantiateImages.imageNumber].GetComponent<Image>()
+                 .raycastTarget = false;
+    
+    undo.SetActive(false);
+    redo.SetActive(false);
+        
         
 
 
@@ -51,9 +55,24 @@ public class StartMainGame : MonoBehaviour
             ready = true;
             LoadLines();
             LoadStamps();
+
         }
 
-       
+        int lastChildRedo = redoHolder.transform.childCount - 1;
+        int lastChildUndo = InstantiateImages.drawArray[ImageOrder.imageSet, InstantiateImages.imageNumber].transform
+            .childCount - 1;
+
+        if (lastChildRedo >= 0 )
+        {
+            redo.SetActive(true);
+            
+        }
+        else redo.SetActive(false);
+        if(lastChildUndo>=0)
+        {undo.SetActive(true);}
+        else undo.SetActive(false);
+
+
     }
 
     public void LoadLines()
@@ -173,7 +192,7 @@ public class StartMainGame : MonoBehaviour
             line.GetComponent<LineRenderer>().widthCurve = AnimationCurve.Constant(1,1,width);
             line.GetComponent<LineRenderer>().colorGradient = gradient;
             line.GetComponent<LineRenderer>().material = mat[matNumber];
-            Debug.Log(ColorLine);
+            
             line.transform.SetParent(InstantiateImages.drawArray[ImageOrder.imageSet,InstantiateImages.imageNumber].transform);
              line.GetComponent<LineRenderer>().SetPositions(lineCoord);
 
@@ -219,6 +238,9 @@ public class StartMainGame : MonoBehaviour
 
       lastChildTransform.SetParent(redoHolder.transform);
       lastChildTransform.gameObject.SetActive(false);
+      if(lastChild==0)
+          undo.SetActive(false);
+      
           
     
     }
@@ -230,6 +252,8 @@ public class StartMainGame : MonoBehaviour
         Transform lastChildTransform = redoHolder.transform.GetChild(lastChild);
                lastChildTransform.SetParent(InstantiateImages.drawArray[ImageOrder.imageSet, InstantiateImages.imageNumber].transform);
                lastChildTransform.gameObject.SetActive(true);
+              if(lastChild==0)
+                  redo.SetActive(false);
 
     }
 
